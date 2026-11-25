@@ -17,6 +17,8 @@ Lingo Abroad is a travel language course that runs as a **Claude skill**: no app
 
 Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
 
+**Privacy:** Lingo Abroad has no server and collects nothing. Your progress lives only in your own Claude chats, as the progress card. Feedback goes nowhere unless you tap the GitHub link it gives you.
+
 ## Install and use (Claude)
 
 ### One-time setup
@@ -94,7 +96,7 @@ Pasting your **progress card** works best, with or without a project: it carries
 | **Topic** | A subject area: Basics, Understanding & Getting Help, Transport, Sightseeing, Restaurant, Shopping. |
 | **Lesson** | One 7-minute daily sitting: recall → speak & listen → read → roleplay → progress card. |
 | **Topic test / Level final test** | Pass/fail checks (8/10 and 12/15, polite register required) that earn **Passed ✓**. |
-| **Progress card** | A short text block Claude writes into the chat at the end of every lesson; the learner pastes it into a new chat to start the next lesson, practice or test (or a `trips/<destination>.md` file where the AI can write files). |
+| **Progress card** | A short text block Claude writes into the chat at the end of every lesson; the learner pastes it into a new chat to start the next lesson, practice or test (in Claude Code it can also save it to a file if you ask). |
 
 Every lesson has three parts: **Speak** (what you say, always polite), **Listen** (what locals say back) and **Read** (signs and menus). Review uses three buckets (**Weak / Learning / Solid**) ordered by list position only, so the AI never has to do date math.
 

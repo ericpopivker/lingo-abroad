@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.101**
+**Skill version: 0.1.102**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -225,7 +225,7 @@ The learner's own phrases for their trip ("How do I say I'm allergic to nuts?", 
 
 ## Progress card
 
-**Card mode only** (in server mode, call `save_lesson` instead). End every lesson or test with the card, **always inside a ``` code block** (text and voice; never as plain lines). In voice, say only "Your card is on screen." before it and nothing about its contents: voice mode reads plain text aloud, and the code block is what keeps it short. **Always print the card, even in voice and even if the card's Notes say "card on request"** (drop that note): the card is the only save, and the learner copies it to start the next chat (paste the card → tap voice → "ready"). Learners do lessons hands-free and won't ask for it. Then the **end-of-lesson line** (new chat + paste this card; see **What next? menu**). If you can write files (e.g. Claude Code), also save it to `trips/<destination>.md`.
+**Card mode only** (in server mode, call `save_lesson` instead). End every lesson or test with the card, **always inside a ``` code block** (text and voice; never as plain lines). In voice, say only "Your card is on screen." before it and nothing about its contents: voice mode reads plain text aloud, and the code block is what keeps it short. **Always print the card, even in voice and even if the card's Notes say "card on request"** (drop that note): the card is the only save, and the learner copies it to start the next chat (paste the card → tap voice → "ready"). Learners do lessons hands-free and won't ask for it. Then the **end-of-lesson line** (new chat + paste this card; see **What next? menu**). Never write files on your own. If the learner asks to save the card to a file and you can write files (e.g. Claude Code), save it to `trips/<destination>.md` and say where.
 
 ```
 ▶ Use skill: Lingo Abroad. Continue from this card.
