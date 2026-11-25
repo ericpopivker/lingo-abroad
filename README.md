@@ -44,8 +44,8 @@ Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
 
 1. Open the **Lingo Abroad project** → **New chat**. Always a new one: faster and far fewer tokens than a long chat.
 2. Pick **Opus**.
-3. **Type** **"Next lesson"** (or **"Practice"**, **"Basics test"**, **"Final test"**). This is the only thing you type; everything after is by voice.
-4. When it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"**.
+3. Tap **Use voice mode** and say **"Next lesson"** (or **"Practice"**, **"Basics test"**, **"Final test"**). No typing needed: the project starts Lingo Abroad on its own.
+4. When it says **"Lingo Abroad is loaded…"**, say **"ready"**.
 
    ![Use voice mode inside an open chat: bottom left, next to the microphone](docs/img/voice-mode-in-chat.png)
 
