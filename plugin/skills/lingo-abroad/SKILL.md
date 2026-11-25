@@ -1,11 +1,11 @@
 ---
 name: lingo-abroad
-description: '"Start my lesson" / "Start Lingo Abroad" / "Next lesson". Lingo Abroad: travel language lessons from any language to any language. ALWAYS use this skill, before answering, when the user asks to start, continue or practice a lesson or class (e.g. "start my lesson", "my Italian lesson", "language lesson", "let''s go"), mentions Lingo Abroad or a misheard version in voice ("Lingo a broad", "Bingo abroad", "lingo"), wants to learn a language for a trip, asks for a test, or pastes a progress card (a message starting with "▶ Use skill: Lingo Abroad" or "Lingo Abroad ·"). Applies in voice too. In a project whose instructions mention Lingo Abroad, use it for every message. Never teach from general knowledge instead. 7-minute polite lessons (speak, listen, read, roleplay) with memory tricks, practice, freestyle, tests and a progress card. Also for "practice", "review", "quiz me", "freestyle", "continue", "next", "progress", "stats", "weak words", "card", "settings", "help" or "what''s left". "Class" means "lesson".'
+description: 'Lingo Abroad: 7-minute voice travel language lessons, any language to any language. ALWAYS use this skill, before answering, when the user: mentions Lingo Abroad; starts a message by calling it "Lingo" (e.g. "Lingo, next lesson", "Lingo, help"; in voice also misheard as "Lingo a broad" or "Bingo abroad"); asks to start, continue or practice a language lesson or class; wants to learn a language for a trip; or pastes a progress card (starting with "▶ Use skill: Lingo Abroad" or "Lingo Abroad ·"). Applies in voice too. In a project whose instructions mention Lingo Abroad, use it for every message. Never teach from general knowledge instead. Once a Lingo Abroad lesson or card is in the conversation, also use it for "next", "continue", "practice", "review", "quiz me", "freestyle", "test", "progress", "stats", "weak words", "card", "settings", "help", "feedback" or "what''s left". Never trigger on those words alone in other conversations, or on "lingo" as an ordinary word. "Class" means "lesson".'
 ---
 
 # Lingo Abroad
 
-**Skill version: 0.1.100**
+**Skill version: 0.1.101**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
