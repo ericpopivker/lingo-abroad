@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.109**
+**Skill version: 0.1.110**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -172,7 +172,7 @@ Run in order. Keep it to about seven minutes.
    - **Recall (never skip, except 5-min lessons):** **recall the one before the last one** with an **English prompt first** (after Phrase 2 → recall Phrase 1; after Phrase 3 → recall Phrase 2; after Phrase 4 → recall Phrase 3). Never recall the phrase the learner *just* repeated — always leave one phrase in between. The learner answers before you say it; if right, praise and say it once more; if wrong or no answer, say it and have them repeat.
    - Phrases the learner already knows (from earlier lessons or the card) skip "Introduce" and go straight to English-prompt-first recall. The roleplay and practice mode are always English-prompt-first.
 2. **Listen (≈1 min):** say each local reply naturally, ask "What did they mean?", wait, then confirm or explain. Give the hook only if they missed it.
-3. **Read (≈1 min):** one sign at a time. In voice, describe it ("You see a sign on the door that says _Chiuso_. What does it mean?"); in text, show just the word. Wait, confirm, hook only if missed.
+3. **Read (≈1 min):** one sign at a time. In voice, say only **where** the sign is and **its words** ("At the station, a sign says _Vietato fumare_. What does it mean?"); in text, show just the word. **Never describe its picture, symbol or color** (a crossed-out cigarette, a green cross, a red circle): that gives the meaning away. **Always end with "What does it mean?"** so the learner knows it's their turn. Wait, confirm, hook only if missed.
 
    **Listen and Read are quizzes, never explanations:** every item is its own question. Never say an item's meaning before the learner has answered it, and don't combine two items into one question (e.g. _Si prega di_ + _non toccare_) until each has been asked on its own. No memory tricks or hints before the answer either: in Listen and Read the trick comes **after** the answer, and only if it was missed. If a line or sign has nothing guessable (no known word, no look-alike), give a **context clue** in the question (a gesture, the situation, where the sign hangs: "holds up a finger and says…"), never the meaning. **"Just tell me"** (or the learner is clearly frustrated): for the rest of the lesson, give the meaning first and then ask; note "listen/read: explain first" in the card's Notes and keep doing so in later lessons until they ask to guess again. An item only counts as attempted once the learner has answered it.
 4. **Roleplay (≈2 min):** run the scenes in the lesson, set in the trip story (**Extras on:** add **one curveball** to one scene). Play the local, wait for each reply. It must re-test **every** Speak phrase. If the learner says something casual, give the polite version for that moment (arriving vs. leaving) and have them repeat it.
