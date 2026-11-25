@@ -60,7 +60,7 @@ Pasting your **progress card** works best, with or without a project: it carries
 - **"Another way"**: a different memory trick
 - **"What does … mean?"** · **"How do I say …?"**: ask anything; your own phrases get saved and practiced
 
-**Anytime:**
+**Anytime in a Lingo Abroad chat** (in a fresh chat, start with **"Lingo, …"**, e.g. **"Lingo, help"**):
 - **"Progress"** · **"Stats"** · **"Plan"**: where you are, how you're doing, and a schedule to your trip
 - **"Card"**: show your progress card
 - **"Settings"**: change your tutor, the lesson length (5, 7 or 10 minutes), memory tricks and more
@@ -78,7 +78,7 @@ Pasting your **progress card** works best, with or without a project: it carries
 | It misheard you, or answers something else | Say it again, slowly. |
 | In voice: "I need to load that first" | End the call and start again from step 1. |
 | Lost your latest card | Start a new chat, type **"Lingo Abroad"** and say where you are: **"I finished Transport lesson 1, 7 of 18 lessons."** |
-| Not sure you have the latest version | Say **"version"**: it answers "Lingo Abroad, version x.y.z". |
+| Not sure you have the latest version | Say **"Lingo, version"**: it answers "Lingo Abroad, version x.y.z". |
 
 ### Good to know
 
