@@ -25,7 +25,7 @@ Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
 
 ### One-time setup
 
-1. **Turn on files:** in Claude, **Settings → Capabilities → Create and edit files** (skills need it).
+1. **Check that files are on** (usually already): **Settings → Capabilities → Create and edit files**. Skills can't run without it.
 2. **Install the plugin:** **Customize → Plugins → Add marketplace** → `ericpopivker/lingo-abroad` → turn on **Sync automatically** → open **Lingo Abroad** in the plugin list → click **Add** (top right). Updates then arrive by themselves.
 3. **Create a project named "Lingo Abroad"** and paste this into its **instructions** (it makes every chat in the project start Lingo Abroad on its own):
    > Every chat in this project is a Lingo Abroad lesson. You MUST load the Lingo Abroad skill before your first reply, whatever the message ("next lesson", "hi", "practice" or a pasted card). Never reply without it. Load it once per chat; don't reload it on later turns.
