@@ -28,6 +28,15 @@ Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
 3. **Create a project named "Lingo Abroad"** (suggested) to keep your lesson chats together, and add it to your phone's home screen. Leave its **instructions empty**: project instructions make voice slow ("Let me check…" before every answer). Prefer plain chats? Skip this step; everything else is the same.
 4. **First lesson:** **new chat** (in the project, if you made one) → pick **Opus** → type **"Start Lingo Abroad"** → when it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"** → answer the setup questions by voice.
 
+> [!IMPORTANT]
+> **Make sure it's really Lingo Abroad, not plain Claude.** They look alike: plain Claude will happily improvise a language lesson, but without the course, the polite-only rules, the review or your progress. You're in Lingo Abroad when:
+> - the first reply is **"Lingo Abroad is loaded…"** (and the app shows a **"Loaded skill lingo-abroad"** step above it),
+> - lessons open with a header like **"Lingo Abroad · Restaurant, Lesson 2"**,
+> - every lesson ends with a **progress card**,
+> - **"Lingo, version"** answers **"Lingo Abroad, version x.y.z"**.
+>
+> If not, or if Claude says the skill isn't available, stop and start a new chat (see **If something's wrong** below).
+
 ### Every lesson, practice or test: new chat + paste your card
 
 Pasting your **progress card** works best, with or without a project: it carries everything between chats, and Claude can't reliably find it by itself yet. Project or plain chats is up to you; the project is the suggested way.
