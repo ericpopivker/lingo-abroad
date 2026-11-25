@@ -1,4 +1,4 @@
-<img src="plugin/.claude-plugin/icon.png" alt="Lingo Abroad logo: a suitcase-shaped speech bubble with voice bars" width="96">
+<img src="docs/img/logo.png" alt="Lingo Abroad logo: a suitcase-shaped speech bubble with voice bars" width="96">
 
 # Lingo Abroad
 
