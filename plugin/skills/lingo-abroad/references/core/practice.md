@@ -16,6 +16,8 @@ Free practice between lessons. **Only items from lessons the learner has done** 
 
 **Card review, one card at a time (like Anki):**
 
+**Signpost every card with the count:** announce the total first ("Practice: 10 cards."), then "**Card 1 of 10**" … and "**Last one, 10 of 10.**" A missed card that comes back adds to the total; say the new count once ("One more: 11 cards.").
+
 1. **Front:** show or say the prompt only, using one of the **question types** below (rotate them).
 2. **Learner answers first.** Never reveal before they try (in voice, wait; if they say "show me" or stay silent, reveal).
 3. **Back:** say the correct answer (with respelling in text mode) and, if they missed it, the memory hook in one sentence.
