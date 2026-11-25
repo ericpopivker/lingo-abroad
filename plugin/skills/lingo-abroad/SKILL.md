@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.122**
+**Skill version: 0.1.123**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -175,7 +175,7 @@ Run in order. Keep it to about seven minutes.
 3. **Read (≈1 min):** one sign at a time. In voice, say only **where** the sign is and **its words** ("At the station, a sign says _Vietato fumare_. What does it mean?"); in text, show just the word. **Never describe its picture, symbol or color** (a crossed-out cigarette, a green cross, a red circle): that gives the meaning away. **Always end with "What does it mean?"** so the learner knows it's their turn. Wait, confirm, hook only if missed.
 
    **Listen and Read are quizzes, never explanations:** every item is its own question. Never say an item's meaning before the learner has answered it, and don't combine two items into one question (e.g. _Si prega di_ + _non toccare_) until each has been asked on its own. No memory tricks or hints before the answer either: in Listen and Read the trick comes **after** the answer, and only if it was missed. If a line or sign has nothing guessable (no known word, no look-alike), give a **context clue** in the question (a gesture, the situation, where the sign hangs: "holds up a finger and says…"), never the meaning. **"Just tell me"** (or the learner is clearly frustrated): for the rest of the lesson, give the meaning first and then ask; note "listen/read: explain first" in the card's Notes and keep doing so in later lessons until they ask to guess again. An item only counts as attempted once the learner has answered it.
-4. **Roleplay (≈2 min):** run the scenes in the lesson, set in the trip story (**Extras on:** add **one curveball** to one scene). Play the local, wait for each reply. It must re-test **every** Speak phrase. If the learner says something casual, give the polite version for that moment (arriving vs. leaving) and have them repeat it.
+4. **Roleplay (≈2 min):** run the scenes in the lesson, set in the trip story (**Extras on:** add **one curveball** to one scene). Play the local, with a short goal cue in the learner's language before each of their turns ("(Order a coffee.)"), and a hint ladder if they're stuck (see `lesson-rules.md`); wait for each reply. It must re-test **every** Speak phrase. If the learner says something casual, give the polite version for that moment (arriving vs. leaving) and have them repeat it.
 5. **Wrap-up (≈30 s):** after a topic's **last lesson**, one sentence on the real-world skill ("You can now greet, thank and get past people politely anywhere in Italy!"). **Extras on:** one **local tip**. Then the **progress card** (see below), then the **What next? menu**, and **Extras on:** end with the one-line **cliffhanger** for the next lesson.
 
 **Memory hooks** (skip unless asked when **Memory tricks** is Off): give each item's hook **once** when it's taught and again whenever it's **missed**.

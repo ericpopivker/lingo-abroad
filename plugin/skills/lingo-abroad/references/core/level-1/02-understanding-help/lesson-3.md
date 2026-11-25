@@ -17,8 +17,8 @@ This spec lists **meanings**, not words. Write each item in the target language 
 | # | Meaning | Situation |
 | :- | :------ | :-------- |
 | L1 | "Of course. How can I help?" | Answering S1 |
-| L2 | "It's over there, on the right." | Answering S2 (or the pharmacy question) |
-| L3 | "It's near here: second street on the left." | Answering S3 |
+| L2 | "It's over there." (pointing) | Answering S2 (or the pharmacy question). No left / right yet: directions come in Sightseeing. |
+| L3 | "It's near here, that way." (pointing) | Answering S3 |
 
 ## Read — what you'll see
 

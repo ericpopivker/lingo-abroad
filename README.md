@@ -82,6 +82,7 @@ It always answers first with **"Lingo Abroad is loaded…"**. If it doesn't, it'
 - **"Wait"**: take a moment
 - **"Slower"**: hear it again, slowly
 - **"Another way"**: a different memory trick
+- **"Hint"**: in the closing scene, a nudge (the first word), then the whole phrase if you need it
 - **"What does … mean?"** · **"How do I say …?"**: ask anything; your own phrases get saved and practiced
 
 **Anytime while it's running:**
