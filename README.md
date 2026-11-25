@@ -25,10 +25,6 @@ Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
 
 ### One-time setup
 
-Watch the whole setup (1:20):
-
-https://github.com/user-attachments/assets/7e1054a1-660b-44fc-9a3f-56dcb9430a92
-
 1. **Check that files are on** (usually already): **Settings → Capabilities → Create and edit files**. Skills can't run without it.
 2. **Install the plugin:** **Customize → Plugins → Add marketplace** → `ericpopivker/lingo-abroad` → turn on **Sync automatically** → open **Lingo Abroad** in the plugin list → click **Add** (top right). Updates then arrive by themselves.
 3. **Create a project named "Lingo Abroad"** and paste this into its **instructions** (it makes every chat in the project start Lingo Abroad on its own):
@@ -36,6 +32,10 @@ https://github.com/user-attachments/assets/7e1054a1-660b-44fc-9a3f-56dcb9430a92
 
    On your phone, add the project to your home screen for one-tap lessons.
 4. **First lesson:** in the project, **new chat** → pick **Opus** → type **"Start Lingo Abroad"** → when it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"** → answer the setup questions by voice.
+
+Watch the whole setup (1:20):
+
+https://github.com/user-attachments/assets/7e1054a1-660b-44fc-9a3f-56dcb9430a92
 
 > [!IMPORTANT]
 > **Make sure it's really Lingo Abroad, not plain Claude.** They look alike: plain Claude will happily improvise a language lesson, but without the course, the polite-only rules, the review or your progress. You're in Lingo Abroad when:
