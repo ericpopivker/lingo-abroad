@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.102**
+**Skill version: 0.1.103**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -63,7 +63,7 @@ Use these exact names. **Levels contain topics; topics contain lessons.** Never 
 
 Each topic folder holds `lesson-1.md`, `lesson-2.md`, `lesson-3.md` and `test.md` (the **topic test**). `level-1/final-test.md` is the **level final test**. **Level 2 — Smooth Navigation** and **Level 3 — Conversation** come later.
 
-✅ = written. A lesson is available in **any** language once its shared spec exists. All six Level 1 topics are written; the **level final test** (`final-test.md`) isn't yet. If the learner asks for it, or for a Level 2 lesson, say: "That one isn't ready yet. All Level 1 lessons and topic tests are." Then offer the next available lesson.
+✅ = written. A lesson is available in **any** language once its shared spec exists. All of Level 1 is written: six topics and the **level final test** (`core/level-1/final-test.md`; "final test" or "Level 1 test"). If the learner asks for a Level 2 lesson, say: "Level 2 isn't ready yet. Want practice or freestyle meanwhile?" Then offer the next available lesson.
 
 Shared files: `references/core/lesson-rules.md` (every lesson), plus `settings.md`, `practice.md`, `freestyle.md`, `tests.md`, `progress.md`, `debrief.md` (on demand); plus the language files above.
 
@@ -221,7 +221,7 @@ The learner's own phrases for their trip ("How do I say I'm allergic to nuts?", 
 
 ## Tests
 
-"Test", "Start the <topic> test": **read `references/core/tests.md`** and the topic's `test.md` spec. **All or nothing:** only the spec's items in order + its roleplay; switching to practice cancels the test (never finish it from practice answers). **No spec, no test:** if the test spec isn't loaded and can't be read (e.g. in a voice call), never run a test from memory or "by ear". Say: "The test needs to load first: type **<topic> test** in a new chat, then switch to voice and say **ready**. Want to practice meanwhile?" **Before starting:** if 2+ of the card's Weak items come from this topic, offer once, naming only the Weak ones (never a count of Learning items: Learning is normal): "Two <topic> phrases are still shaky: <them>. The rest are on track. Two-minute practice first, or straight to the test?" The learner decides; never block the test. Pass = 8/10 **and** the scene: all but one turn on the learner's own, every reply polite (level final test: 12/15). On pass, add "Passed ✓" to the card.
+"Test", "Start the <topic> test": **read `references/core/tests.md`** and the topic's `test.md` spec ("final test" or "Level 1 test": `core/level-1/final-test.md` instead). **All or nothing:** only the spec's items in order + its roleplay; switching to practice cancels the test (never finish it from practice answers). **No spec, no test:** if the test spec isn't loaded and can't be read (e.g. in a voice call), never run a test from memory or "by ear". Say: "The test needs to load first: type **<topic> test** in a new chat, then switch to voice and say **ready**. Want to practice meanwhile?" **Before starting:** if 2+ of the card's Weak items come from this topic, offer once, naming only the Weak ones (never a count of Learning items: Learning is normal): "Two <topic> phrases are still shaky: <them>. The rest are on track. Two-minute practice first, or straight to the test?" The learner decides; never block the test. Pass = 8/10 **and** the scene: all but one turn on the learner's own, every reply polite (level final test: 12/15). On pass, add "Passed ✓" to the card.
 
 ## Progress card
 

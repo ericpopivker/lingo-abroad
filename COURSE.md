@@ -1,6 +1,6 @@
 # What you'll learn
 
-**Level 1: Survival.** Everything you need for a first trip: 6 topics, 3 lessons each, about 7 minutes a lesson. Every lesson has the same four parts: phrases **you say** (always the polite form), what **locals say back**, the **signs** you'll see, and a short **roleplay** where your tutor plays the local. Each topic ends with a short test.
+**Level 1: Survival.** Everything you need for a first trip: 6 topics, 3 lessons each, about 7 minutes a lesson. Every lesson has the same four parts: phrases **you say** (always the polite form), what **locals say back**, the **signs** you'll see, and a short **roleplay** where your tutor plays the local. Each topic ends with a short test, and Level 1 ends with a **final test**: a whole day in the country, from a morning café to dinner.
 
 Take them in order, or jump to any lesson ("Restaurant lesson 2").
 

@@ -52,7 +52,7 @@ Pasting your **progress card** works best, with or without a project: it carries
 - **"Restaurant lesson 2"** (any lesson name): jump to that lesson, even out of order
 - **"Quick one"**: a 2-minute review on a busy day
 - **"Freestyle"**: a free chat in the language, after a few lessons
-- **"Basics test"**: type it under the card before sending (tests can't load once you're in voice)
+- **"Basics test"** (any topic) or **"Final test"**: type it under the card before sending (tests can't load once you're in voice). The final test covers all of Level 1 once you've passed the six topic tests.
 
 **During a lesson:**
 - **"Wait"**: take a moment
