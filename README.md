@@ -25,8 +25,11 @@ Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
 
 1. **Turn on files:** in Claude, **Settings → Capabilities → Create and edit files** (skills need it).
 2. **Install the plugin:** **Customize → Plugins → Add marketplace** → `ericpopivker/lingo-abroad` → turn on **Sync automatically** → open **Lingo Abroad** in the plugin list → click **Add** (top right). Updates then arrive by themselves.
-3. **Create a project named "Lingo Abroad"** (suggested) to keep your lesson chats together, and add it to your phone's home screen. Leave its **instructions empty**: project instructions make voice slow ("Let me check…" before every answer). Prefer plain chats? Skip this step; everything else is the same.
-4. **First lesson:** **new chat** (in the project, if you made one) → pick **Opus** → type **"Start Lingo Abroad"** → when it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"** → answer the setup questions by voice.
+3. **Create a project named "Lingo Abroad"** and paste this into its **instructions** (it makes every chat in the project start Lingo Abroad on its own):
+   > Every chat in this project is a Lingo Abroad lesson. You MUST load the Lingo Abroad skill before your first reply, whatever the message ("next lesson", "hi", "practice" or a pasted card). Never reply without it. Load it once per chat; don't reload it on later turns.
+
+   On your phone, add the project to your home screen for one-tap lessons.
+4. **First lesson:** in the project, **new chat** → pick **Opus** → type **"Start Lingo Abroad"** → when it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"** → answer the setup questions by voice.
 
 > [!IMPORTANT]
 > **Make sure it's really Lingo Abroad, not plain Claude.** They look alike: plain Claude will happily improvise a language lesson, but without the course, the polite-only rules, the review or your progress. You're in Lingo Abroad when:
@@ -37,25 +40,27 @@ Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
 >
 > If not, or if Claude says the skill isn't available, stop and start a new chat (see **If something's wrong** below).
 
-### Every lesson, practice or test: new chat + paste your card
+### Every lesson, practice or test: a new chat in your project
 
-Pasting your **progress card** works best, with or without a project: it carries everything between chats, and Claude can't reliably find it by itself yet. Project or plain chats is up to you; the project is the suggested way.
-
-1. Open a **new chat** (in your project, if you made one). Always a new one: faster and far fewer tokens than a long chat.
+1. Open the **Lingo Abroad project** → **New chat**. Always a new one: faster and far fewer tokens than a long chat.
 2. Pick **Opus**.
-3. **Paste your latest progress card** and send it. For a test, type **"Basics test"** (or the topic you want) on a line below the card before sending, because tests can't be loaded once you're in voice. (Every lesson ends with the card printed in the chat; tap its **copy** button.)
-4. When it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"** (or **"practice"**).
+3. Type **"Next lesson"** (or **"Practice"**; for a test, **"Basics test"** or **"Final test"**, typed before you switch to voice, because tests can't be loaded once you're in voice).
+4. When it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"**.
 
    ![Use voice mode inside an open chat: bottom left, next to the microphone](docs/img/voice-mode-in-chat.png)
 
    In an open chat, **Use voice mode** is the waveform icon at the bottom left; the microphone next to it is dictation only.
 
-5. Do the lesson (~7 minutes), hands-free. Say **"wait"** if you need a moment.
-6. At the end, **copy the new card** for next time. It also says what's next.
+5. **Listen to the first line:** it names the card it found ("Found your card from Nov 24: 7 of 18 lessons…"). If it's not your latest, or it can't find one, say where you are ("I finished Transport lesson 1") or paste your latest card.
+6. Do the lesson (~7 minutes), hands-free. Say **"wait"** if you need a moment. Every lesson ends with your **progress card** in the chat.
+
+Works best in the Claude **phone and desktop apps**. On the web, voice works but pauses ("Let me check…") before every answer.
+
+**Without the project** (or if it can't find your card): open any new chat, **paste your latest progress card** (copy it from the end of your last lesson) and send it; then **"Lingo Abroad is loaded…"** → voice → **"ready"**.
 
 ### Things you can say
 
-**To start** (after pasting your card in a new chat):
+**To start** (in a new chat in your project, or after pasting your card):
 - **"Ready"**: the next lesson
 - **"Practice"**: a review of your shaky phrases (or **"practice the last lesson"**)
 - **"Restaurant lesson 2"** (any lesson name): jump to that lesson, even out of order
@@ -83,7 +88,7 @@ Pasting your **progress card** works best, with or without a project: it carries
 | What you see | What to do |
 | :--- | :--- |
 | No **"Lingo Abroad is loaded"**, or a general answer about the language | The skill didn't load. Check you're on **Opus**, start a new chat and paste the card again (its first line, "▶ Use skill: Lingo Abroad…", starts the skill). |
-| "Let me check…" / "I'm working on it" before every answer | The chat is in a project with instructions. Empty the project's instructions and start a new chat. |
+| "Let me check…" / "I'm working on it" before every answer | Usual on the web. Use the Claude phone or desktop app for quick back-and-forth. |
 | It misheard you, or answers something else | Say it again, slowly. |
 | In voice: "I need to load that first" | End the call and start again from step 1. |
 | Lost your latest card | Start a new chat, type **"Lingo Abroad"** and say where you are: **"I finished Transport lesson 1, 7 of 18 lessons."** |
