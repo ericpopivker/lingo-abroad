@@ -1,3 +1,5 @@
+<img src="plugin/.claude-plugin/icon.png" alt="Lingo Abroad logo: a suitcase-shaped speech bubble with voice bars" width="96">
+
 # Lingo Abroad
 
 > **Like a language podcast or audio course, but it talks back.** 7-minute voice lessons inside Claude: the polite phrases you'll say, what locals say back, and the signs you'll see.
