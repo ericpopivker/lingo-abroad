@@ -16,7 +16,7 @@ Run the lesson in this order. Each line is a rule from SKILL.md that is easy to 
 
 **Card check before printing** (fix anything that fails):
 - **Done tally:** list every Speak, Listen, Read item and roleplay scene from the spec by its ID (`S1 S2 S3 S4 · L1 L2 L3 · R1 R2 R3 R4 · scenes 1 2 3`), ✓ only if the learner actually answered it. **Any ID without ✓ → go back and do it now**, then print the card. Practice and freestyle: `Done: practice` / `freestyle`. Tests: `Done: test 1–10 ✓ · roleplay ✓`; **never write "Passed" on the Tests line unless every test item and the roleplay were done in this test** (see `tests.md`).
-- First line is `▶ Use skill: Lingo Abroad. Continue from this card.`, and the card is inside a ``` code block.
+- First line is `▶ Use skill: Lingo Abroad. Continue from this card. LingoAbroadCard <Language> <YYYY-MM-DD>` (today's date; the one-word `LingoAbroadCard` is what past-chat search looks for), and the card is inside a ``` code block. Update an older card's first line to this form.
 - **Weak ≤ 3 · Learning ≤ 8 · Solid ≤ 4.** Over → drop the oldest in that bucket (Weak overflow moves to Learning).
 - New items: right → Learning, wrong → Weak; **never Solid** in their first lesson.
 - **Tag every item** with its type: **(S)** speak, **(L)** listen, **(R)** read (`ha prenotato? (L)`, `piatto del giorno (R)`, `cos'è questo? (S)`). Untagged items from an older card: tag them from the spec they came from.
