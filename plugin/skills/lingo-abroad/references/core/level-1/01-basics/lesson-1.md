@@ -26,7 +26,7 @@ This spec lists **meanings**, not words. Write each item in the target language 
 | :- | :------ | :---- |
 | R1 | Open | Shop door |
 | R2 | Closed | Shop door |
-| R3 | Entrance | Door, museum, station |
+| R3 | Entrance (the word on most entrance signs, e.g. Italy: _Ingresso_, not _Entrata_) | Door, museum, station |
 | R4 | Exit | Door, museum, station |
 
 ## Roleplay — 3 short scenes
