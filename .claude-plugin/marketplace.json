@@ -1,0 +1,31 @@
+{
+  "name": "lingo-abroad",
+  "owner": {
+    "name": "ericpopivker"
+  },
+  "metadata": {
+    "description": "Lingo Abroad: 7-minute polite travel language courses for Claude, any language to any language (Learn Italian curated; others in beta)."
+  },
+  "plugins": [
+    {
+      "name": "lingo-abroad",
+      "source": "./plugin",
+      "description": "Voice-first travel language courses from any language to any language: Learn Italian (curated) now, every other language in beta. Speak, listen and read, memory tricks, Anki-style practice, freestyle, tests and progress tracking.",
+      "version": "0.1.96",
+      "category": "education",
+      "keywords": [
+        "language",
+        "languages",
+        "learn",
+        "travel",
+        "italian",
+        "portuguese",
+        "hebrew",
+        "lessons",
+        "tutor",
+        "voice",
+        "phrasebook"
+      ]
+    }
+  ]
+}

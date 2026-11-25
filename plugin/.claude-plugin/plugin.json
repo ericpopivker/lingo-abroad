@@ -1,0 +1,22 @@
+{
+  "name": "lingo-abroad",
+  "displayName": "Lingo Abroad",
+  "version": "0.1.96",
+  "description": "Voice-first travel language courses from any language to any language: Learn Italian (curated) now, every other language in beta. Speak, listen and read, memory tricks, Anki-style practice, freestyle, tests and progress tracking.",
+  "author": {
+    "name": "ericpopivker"
+  },
+  "keywords": [
+    "language",
+    "languages",
+    "learn",
+    "travel",
+    "italian",
+    "portuguese",
+    "hebrew",
+    "lessons",
+    "tutor",
+    "voice",
+    "phrasebook"
+  ]
+}
