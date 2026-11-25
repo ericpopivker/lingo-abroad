@@ -24,7 +24,7 @@ Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
 ### One-time setup
 
 1. **Turn on files:** in Claude, **Settings → Capabilities → Create and edit files** (skills need it).
-2. **Install the plugin:** **Customize → Plugins → Add marketplace** → `ericpopivker/lingo-abroad` → install **lingo-abroad** → turn on **Sync automatically**. Updates then arrive by themselves.
+2. **Install the plugin:** **Customize → Plugins → Add marketplace** → `ericpopivker/lingo-abroad` → turn on **Sync automatically** → open **Lingo Abroad** in the plugin list → click **Add** (top right). Updates then arrive by themselves.
 3. **Create a project named "Lingo Abroad"** (suggested) to keep your lesson chats together, and add it to your phone's home screen. Leave its **instructions empty**: project instructions make voice slow ("Let me check…" before every answer). Prefer plain chats? Skip this step; everything else is the same.
 4. **First lesson:** **new chat** (in the project, if you made one) → pick **Opus** → type **"Start Lingo Abroad"** → when it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"** → answer the setup questions by voice.
 
