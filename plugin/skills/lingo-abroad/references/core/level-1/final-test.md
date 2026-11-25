@@ -39,7 +39,7 @@ The correct answers are the target-language items taught for these meanings (use
 3. *Outside, you're looking for the museum.* Passer-by: "Can I help you?" → Si L1·S1. Passer-by: "Straight ahead, then left. It's near here."
 4. *At the museum desk.* Clerk: greeting + "Have you booked?" → Si L2·S2 (or "No" + two tickets).
 5. *Afternoon, a small shop.* Shopkeeper: "Can I help you?" → Sh L3·S1 (just looking). *Later, you like a scarf.* → Sh L1·S3 (how much is it?). Shopkeeper: a price with cents.
-6. → Sh L3·S3 (can I pay by card?). Shopkeeper: "Cash only, sorry." → OK (Ba L3·S4) + thank you.
+6. → Sh L3·S3 (can I pay by card?). Shopkeeper: "Cash only, sorry." → OK (Ba L3·S5) + thank you.
 7. *Evening, a restaurant.* Waiter: greeting + "Do you have a reservation?" → "No" + Re L1·S1 (a table for two).
 8. *After dinner.* → Re L3·S2 (the bill, please). Waiter: "Cash or card?" → card (Re L3·S3) → thank you + goodbye (Ba L1·S3). Say "**Last one.**" before this turn.
 

@@ -16,7 +16,7 @@ Ask in this order (mixes Speak, Listen and Read across all three lessons). "L1·
 | 2 | Read | "A sign on the door says [Closed]. What does it mean?" | Closed |
 | 3 | Speak | "You point at a pastry. How do you ask for it?" | L2·S1 ("This one, please") |
 | 4 | Listen | "The barista hands you your coffee and says [Here you are]. What did she mean?" | Here you are |
-| 5 | Speak | "You need to squeeze past people on a crowded bus. What do you say?" | L3·S3 (or S2 if the language uses one phrase) |
+| 5 | Speak | "You need to squeeze past people on a crowded bus. What do you say?" | L3·S4 (or S3 if the language uses one phrase) |
 | 6 | Read | "A ticket machine has a sign: [Out of order]. What does it mean?" | Out of order / broken |
 | 7 | Speak | "Someone thanks you for holding the door. How do you reply?" | L2·S3 ("You're welcome") |
 | 8 | Listen | "You ask for the restroom and hear [I'm sorry, it's closed]. What did they say?" | I'm sorry, it's closed |
@@ -31,7 +31,7 @@ Ask in this order (mixes Speak, Listen and Read across all three lessons). "L1·
 
 "You're in a café. I'm the waiter." Play these turns, waiting for each reply:
 
-1. The waiter is across the room. → learner gets attention: L3·S2.
+1. The waiter is across the room. → learner gets attention: L3·S3.
 2. Waiter: "Of course! What would you like?" (L3·L2 + L2·L1) → learner points at the menu: L2·S1.
 3. Waiter: "Here you are." (L2·L2) → learner: L2·S2 (thank you).
 4. The learner leaves. Waiter: "Have a nice day!" (L1·L2) → learner: L1·S3 (goodbye).
