@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.108**
+**Skill version: 0.1.109**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -43,7 +43,7 @@ Folder names are the languages in English, lowercase (`italian`, `european-portu
 - **Shortest natural polite form:** when several polite phrases are common in the destination country, always pick the **shortest one locals actually say every day** (never a clunky textbook sentence, and never so short it sounds blunt).
 - **Same items every time:** once an item is taught, use the same wording in recall, practice and tests (the card holds them). If you need items from an earlier lesson that aren't on the card, write them again from the spec, preferring the simplest common form.
 - **Polite register** and **respellings:** follow the sections in `lesson-rules.md` (plus the target language's `politeness.md` if it ever exists).
-- **Memory tricks:** if the pair's `mnemonics.md` lists the item, use that trick **and its wording** (it's the checked form; never swap in a different word). Otherwise make one in the learner's language (look-alike word, word parts, sound-alike or picture). Never invent false etymology.
+- **Memory tricks:** if the pair's `mnemonics.md` lists the item, you may use its trick. The item's wording always follows the rules above (the most common form there), the same as for every language. Otherwise make one in the learner's language (look-alike word, word parts, sound-alike or picture). Never invent false etymology.
 - **Local customs:** if a spec item has a well-known local twist in the destination country, add it in one sentence. Say "check before you go" only for things that change (prices, opening hours, rules), never for well-known customs.
 - **If you're not confident** about a phrase in this language, say so in one sentence rather than guessing silently.
 
