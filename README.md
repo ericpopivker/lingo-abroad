@@ -60,13 +60,17 @@ Works best in the Claude **phone and desktop apps**. On the web, voice works but
 
 ### Things you can say
 
-**To start** (in a new chat in your project, or after pasting your card):
-- **"Ready"**: the next lesson
-- **"Practice"**: a review of your shaky phrases (or **"practice the last lesson"**)
-- **"Restaurant lesson 2"** (any lesson name): jump to that lesson, even out of order
-- **"Quick one"**: a 2-minute review on a busy day
-- **"Freestyle"**: a free chat in the language, after a few lessons
-- **"Basics test"** (any topic) or **"Final test"**: type it under the card before sending (tests can't load once you're in voice). The final test covers all of Level 1 once you've passed the six topic tests.
+**1. To start Lingo Abroad** (your first words in a new chat):
+
+| Where | What starts it |
+| :--- | :--- |
+| **In your Lingo Abroad project** | Anything: **"Next lesson"**, **"Practice"**, **"Quick one"**, **"Freestyle"**, **"Restaurant lesson 2"** (any lesson), **"Basics test"**, **"Final test"** |
+| **In any other chat** | Start with **"Lingo, …"** (e.g. **"Lingo, next lesson"**, **"Lingo, help"**), or paste your progress card |
+
+It always answers first with **"Lingo Abroad is loaded…"**. If it doesn't, it's plain Claude: start a new chat.
+
+**2. Once it says "Lingo Abroad is loaded…":**
+- **"Ready"**: go (the lesson, practice or test you asked for)
 
 **During a lesson:**
 - **"Wait"**: take a moment
@@ -74,7 +78,7 @@ Works best in the Claude **phone and desktop apps**. On the web, voice works but
 - **"Another way"**: a different memory trick
 - **"What does … mean?"** · **"How do I say …?"**: ask anything; your own phrases get saved and practiced
 
-**Anytime in a Lingo Abroad chat** (in a fresh chat, start with **"Lingo, …"**, e.g. **"Lingo, help"**):
+**Anytime while it's running:**
 - **"Progress"** · **"Stats"** · **"Plan"**: where you are, how you're doing, and a schedule to your trip
 - **"Card"**: show your progress card
 - **"Settings"**: change your tutor, the lesson length (5, 7 or 10 minutes), memory tricks and more
@@ -82,6 +86,8 @@ Works best in the Claude **phone and desktop apps**. On the web, voice works but
 - **"I'm back"**: after the trip, a short debrief
 - **"Feedback"**: something wrong or an idea? Claude writes a short report and a link to send it
 - **"Help"** · **"Version"**
+
+The lesson options mean: **Practice** = review your shaky phrases · **Quick one** = a 2-minute review on a busy day · **Freestyle** = a free chat in the language, after a few lessons · **Final test** = all of Level 1, once the six topic tests are passed.
 
 ### If something's wrong
 
