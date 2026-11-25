@@ -1,6 +1,6 @@
 # Lingo Abroad
 
-> **Like a language podcast, but it talks back.** 7-minute voice lessons inside Claude: the polite phrases you'll say, what locals say back, and the signs you'll see.
+> **Like a language podcast or audio course, but it talks back.** 7-minute voice lessons inside Claude: the polite phrases you'll say, what locals say back, and the signs you'll see.
 
 Lingo Abroad is a travel language course that runs as a **Claude skill**: no app to install, no account, no tracking. Any language to any language. Level 1 (survival for a first trip) has six topics: Basics, Understanding & Getting Help, Transport, Sightseeing, Restaurant and Shopping, 3 lessons and a test each.
 
@@ -11,7 +11,7 @@ Website: [lingoabroad.com](https://lingoabroad.com) · Feedback and bugs: [Issue
 ### One-time setup
 
 1. **Turn on files:** in Claude, **Settings → Capabilities → Create and edit files** (skills need it).
-2. **Install the plugin:** **Customize → Plugins → Add marketplace** → `ericpopivker/lingo-abroad` → install **lingo-abroad** → turn on **Sync automatically**. (Or upload `dist/lingo-abroad-claude.zip` via **Settings → Plugins → Upload plugin**. Never both.)
+2. **Install the plugin:** **Customize → Plugins → Add marketplace** → `ericpopivker/lingo-abroad` → install **lingo-abroad** → turn on **Sync automatically**. Updates then arrive by themselves.
 3. **Create a project named "Lingo Abroad"** (suggested) to keep your lesson chats together, and add it to your phone's home screen. Leave its **instructions empty**: project instructions make voice slow ("Let me check…" before every answer). Prefer plain chats? Skip this step; everything else is the same.
 4. **First lesson:** **new chat** (in the project, if you made one) → pick **Opus** → type **"Start Lingo Abroad"** → when it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"** → answer the setup questions by voice.
 

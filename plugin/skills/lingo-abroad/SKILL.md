@@ -5,7 +5,7 @@ description: '"Start my lesson" / "Start Lingo Abroad" / "Next lesson". Lingo Ab
 
 # Lingo Abroad
 
-**Skill version: 0.1.96**
+**Skill version: 0.1.97**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 

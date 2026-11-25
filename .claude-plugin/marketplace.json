@@ -4,27 +4,30 @@
     "name": "ericpopivker"
   },
   "metadata": {
-    "description": "Lingo Abroad: 7-minute polite travel language courses for Claude, any language to any language (Learn Italian curated; others in beta)."
+    "description": "Lingo Abroad: an interactive language podcast inside Claude. 7-minute voice travel lessons, any language to any language."
   },
   "plugins": [
     {
       "name": "lingo-abroad",
       "source": "./plugin",
-      "description": "Voice-first travel language courses from any language to any language: Learn Italian (curated) now, every other language in beta. Speak, listen and read, memory tricks, Anki-style practice, freestyle, tests and progress tracking.",
-      "version": "0.1.96",
+      "description": "Like a language podcast or audio course, but it talks back: 7-minute voice lessons for travelers, from any language to any language. Polite phrases you'll say, what locals say back, the signs you'll see; 6 survival topics with roleplays, memory tricks, practice, tests and a progress card.",
+      "version": "0.1.97",
       "category": "education",
       "keywords": [
         "language",
         "languages",
         "learn",
         "travel",
-        "italian",
-        "portuguese",
-        "hebrew",
-        "lessons",
-        "tutor",
         "voice",
-        "phrasebook"
+        "podcast",
+        "audio-course",
+        "phrasebook",
+        "tutor",
+        "lessons",
+        "italian",
+        "spanish",
+        "french",
+        "portuguese"
       ]
     }
   ]
