@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.103**
+**Skill version: 0.1.104**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -55,7 +55,7 @@ Use these exact names. **Levels contain topics; topics contain lessons.** Never 
 | # | Topic | Lesson 1 | Lesson 2 | Lesson 3 | Folder |
 | :- | :---- | :------- | :------- | :------- | :----- |
 | 1 | Basics | Greetings | Please, thank you, you're welcome | Polite basics: yes/no, excuse me, OK | `01-basics/` ✅ |
-| 2 | Understanding & Getting Help | When you don't understand | Working it out | Getting help | `02-understanding-help/` ✅ |
+| 2 | Understanding & Getting Help | When you don't understand | Working it out | Asking for help | `02-understanding-help/` ✅ |
 | 3 | Transport | Taxi | Bus & metro | Train | `03-transport/` ✅ |
 | 4 | Sightseeing | Finding your way | Tickets & opening hours | At the sight | `04-sightseeing/` ✅ |
 | 5 | Restaurant | Ordering | Menu & dietary needs | The bill | `05-restaurant/` ✅ |

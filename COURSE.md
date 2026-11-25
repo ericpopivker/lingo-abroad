@@ -14,7 +14,7 @@ Take them in order, or jump to any lesson ("Restaurant lesson 2").
 
 1. **When you don't understand:** ask if they speak English, ask them to slow down or repeat; read the signs for information, restrooms, women and men
 2. **Working it out:** ask someone to write it down, how to say something, what a word means
-3. **Getting help:** find the restroom and the pharmacy, call for help, ask for the police or a doctor
+3. **Asking for help:** ask a stranger for help, find the restroom and the pharmacy, get back on track when you're lost
 
 ## 3. Transport
 
