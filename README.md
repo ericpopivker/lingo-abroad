@@ -4,6 +4,8 @@
 
 Lingo Abroad is a travel language course that runs as a **Claude skill**: no app to install, no account, no tracking. Any language to any language. Level 1 (survival for a first trip) has six topics: Basics, Understanding & Getting Help, Transport, Sightseeing, Restaurant and Shopping, 3 lessons and a test each.
 
+**Who it's for:** say you're heading to Italy in two weeks. You'd like to get by in Italian, but you don't want a streak app or a six-month course: just the phrases you'll actually need, a few minutes a day, in your earbuds. Lingo Abroad gives you a voice tutor who teaches you to order, ask for directions and catch what locals say back, then plays the waiter or the taxi driver so you can practice. **You choose the tutor:** laid-back like a friend who lives there, strict like a teacher before an exam, playful, a surprise each day, or your own character ("Nonna Rosa from Naples, strict but warm"). Lessons can be 5, 7 or 10 minutes, heavier on drills or on conversation: just say **"settings"**.
+
 **Languages:** learn any language, explained in your own. By voice, it works best when both are among Claude's voice languages: currently English, Spanish, French, German, Italian, Portuguese (Portugal and Brazil), Chinese (Mandarin and Cantonese), Japanese, Korean, Hindi, Indonesian, Russian, Turkish and Ukrainian. In text, any language works.
 
 Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
