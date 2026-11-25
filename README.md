@@ -4,7 +4,7 @@
 
 Lingo Abroad is a travel language course that runs as a **Claude skill**: no app to install, no account, no tracking. Any language to any language. Level 1 (survival for a first trip) has six topics: Basics, Understanding & Getting Help, Transport, Sightseeing, Restaurant and Shopping, 3 lessons and a test each.
 
-Website: [lingoabroad.com](https://lingoabroad.com) · Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
+Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
 
 ## Install and use (Claude)
 
