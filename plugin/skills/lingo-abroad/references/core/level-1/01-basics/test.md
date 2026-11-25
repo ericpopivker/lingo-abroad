@@ -40,4 +40,4 @@ Pass the scene if **all but one turn** was said on the learner's own (no hint, n
 
 ## Result
 
-Say the score ("9 out of 10, and a polite roleplay: you passed Basics!"). On pass, add **"Basics Passed ✓ <score>/10"** to the card's Tests line. On fail, say which lesson to redo (the one with the most missed items) and that retakes are always open.
+Say the score ("9 out of 10, and you handled the café scene on your own: you passed Basics!"). On pass, add **"Basics Passed ✓ <score>/10"** to the card's Tests line. On fail, say which lesson to redo (the one with the most missed items) and that retakes are always open.
