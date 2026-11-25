@@ -33,6 +33,30 @@ Pasting your **progress card** works best, with or without a project: it carries
 5. Do the lesson (~7 minutes), hands-free. Say **"wait"** if you need a moment.
 6. At the end, **copy the new card** for next time. It also says what's next.
 
+### Things you can say
+
+**To start** (after pasting your card in a new chat):
+- **"Ready"**: the next lesson
+- **"Practice"**: a review of your shaky phrases (or **"practice the last lesson"**)
+- **"Restaurant lesson 2"** (any lesson name): jump to that lesson, even out of order
+- **"Quick one"**: a 2-minute review on a busy day
+- **"Freestyle"**: a free chat in the language, after a few lessons
+- **"Basics test"**: type it under the card before sending (tests can't load once you're in voice)
+
+**During a lesson:**
+- **"Wait"**: take a moment
+- **"Slower"**: hear it again, slowly
+- **"Another way"**: a different memory trick
+- **"What does … mean?"** · **"How do I say …?"**: ask anything; your own phrases get saved and practiced
+
+**Anytime:**
+- **"Progress"** · **"Stats"** · **"Plan"**: where you are, how you're doing, and a schedule to your trip
+- **"Card"**: show your progress card
+- **"Settings"**: change your tutor, the lesson length (5, 7 or 10 minutes), memory tricks and more
+- **"Change my trip"** · **"Switch to Spanish"**: a new destination or date, or another language
+- **"I'm back"**: after the trip, a short debrief
+- **"Help"** · **"Version"**
+
 ### If something's wrong
 
 | What you see | What to do |
