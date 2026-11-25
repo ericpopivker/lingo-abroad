@@ -16,7 +16,7 @@ This spec lists **meanings**, not words. Write each item in the target language 
 
 | # | Meaning | Situation |
 | :- | :------ | :-------- |
-| L1 | "Hello, how can I help?" | A shopkeeper greets you as you walk in |
+| L1 | The shopkeeper's greeting offer as you walk in (what they say most, e.g. Italy: "Buongiorno, mi dica" or just "Prego?"; not the textbook "Can I help you?") | A shopkeeper or barista greets you as you walk in |
 | L2 | "Have a nice day!" | Staff, as you leave |
 | L3 | "Goodbye, have a nice evening!" | Staff, as you leave in the evening |
 
