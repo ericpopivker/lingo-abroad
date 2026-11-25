@@ -13,7 +13,7 @@ Take them in order, or jump to any lesson ("Restaurant lesson 2").
 ## 2. Understanding & Getting Help
 
 1. **When you don't understand:** ask if they speak English, ask them to slow down or repeat; read the signs for information, restrooms, women and men
-2. **Working it out:** ask someone to write it down, how to say something, what a word means
+2. **Working it out:** say you speak only a little of the language, ask how to say something and what a word means
 3. **Asking for help:** ask a stranger for help, find the restroom and the pharmacy, get back on track when you're lost
 
 ## 3. Transport

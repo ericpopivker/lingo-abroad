@@ -12,7 +12,7 @@ The correct answers are the target-language items you taught for these meanings 
 | 2 | Read | "You see a sign that says [Restrooms]. What does it mean?" | Restrooms / Toilets |
 | 3 | Speak | "Before switching to English, politely ask if they speak it." | L1·S2 |
 | 4 | Read | "A restroom door says [Men]. Who is it for?" | Men (if the country has a look-alike pair, use the trap word, e.g. Italy: _Signori_) |
-| 5 | Speak | "The price was said too fast. Ask them to write it down." | L2·S1 |
+| 5 | Speak | "A shopkeeper starts chatting fast. Tell her you speak only a little of the language." | L2·S1 |
 | 6 | Listen | "You ask a question and hear [Pardon?]. What do they mean?" | Pardon? / What? |
 | 7 | Speak | "You're in a museum and need the restroom. Ask a guard." | L3·S2 (excuse me, where is the restroom?) |
 | 8 | Read | "A shop door says [Closed for holidays]. What does it mean?" | Closed for holidays |
@@ -30,7 +30,7 @@ The correct answers are the target-language items you taught for these meanings 
 1. The clerk greets you and says something fast in the language. → "excuse me" + L1·S2. Clerk: L1·L1 (a little).
 2. The clerk explains something quickly again. → L1·S3 or L1·S4.
 3. The learner needs medicine → L3·S3 (where is the pharmacy?). Clerk: "The on-duty pharmacy is nearby" (L3·R2 word, or "a pharmacy is nearby").
-4. The clerk says the address quickly → L2·S1. Clerk: L2·L3 → learner: thank you.
+4. The clerk explains the way quickly → L2·S1 (only a little). Clerk: L2·L3, then says it slowly → learner: thank you.
 
 Pass the scene if **all but one turn** was said on the learner's own (no hint, no English; small slips are fine) **and** every reply is polite (no commands or casual forms like Italian _Parli_, _Puoi_, _Ciao_, _Ehi_). Turns that needed help go to Weak.
 
