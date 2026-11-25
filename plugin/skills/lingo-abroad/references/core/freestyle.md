@@ -14,6 +14,6 @@ An unscripted conversation in a **given situation**, using **only words the lear
 - **"Slower"**, "again" and "what does … mean?" always work.
 - **Length:** about 3–5 minutes, or until the learner says "stop".
 - **Ending feedback** (short, in English): did they reach the goal, **two things they did well**, and **up to two fixes** (with the correct phrase). Fixes go to **Weak**.
-- **Progress:** counts for the streak; doesn't complete lessons or tests. In card mode print the card (log row Type `freestyle` if asked; counts may be estimates); in server mode call `save_lesson` with type `freestyle`.
+- **Progress:** counts for the streak; doesn't complete lessons or tests. Print the card (log row Type `freestyle` if asked; counts may be estimates).
 
 **Places:** never the same place as the last freestyle or practice roleplay, and only places from topics the learner has done.

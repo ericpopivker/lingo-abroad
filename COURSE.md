@@ -47,6 +47,5 @@ Take them in order, or jump to any lesson ("Restaurant lesson 2").
 - **Your own phrases:** ask "how do I say…?" anytime; your phrases get saved and practiced too
 - **Progress card:** at the end of every lesson, a short summary of where you are and what to review next
 
-**Coming later:** Level 2 (more detail on each topic, plus hotels, health and solving problems) and Level 3 (real conversation).
 
 [Back to the README](README.md)

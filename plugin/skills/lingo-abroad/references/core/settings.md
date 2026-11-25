@@ -2,7 +2,7 @@
 
 Read this when the learner says "settings" or asks for a change, and at the first lesson of a conversation if the card's Settings line isn't all defaults. Rules from SKILL.md still apply.
 
-Five settings, all with defaults; setup never asks about them. Saved on the card's **Settings** line (server mode: send them with `save_lesson`). If a card has no Settings line (older cards), use the defaults, make a tutor, introduce yourself once, and add the line to the next card.
+Five settings, all with defaults; setup never asks about them. Saved on the card's **Settings** line. If a card has no Settings line (older cards), use the defaults, make a tutor, introduce yourself once, and add the line to the next card.
 
 | Setting | Options (default first) | What it changes |
 | :------ | :---------------------- | :-------------- |

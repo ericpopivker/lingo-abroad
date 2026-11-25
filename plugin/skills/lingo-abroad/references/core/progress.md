@@ -1,8 +1,8 @@
 # Progress, Stats and Log Row
 
-Read this when the learner asks for progress, stats, a plan or the log row. Never invent numbers: use the card (or the server).
+Read this when the learner asks for progress, stats, a plan or the log row. Never invent numbers: use the card.
 
-**Progress = position** (from the card's Now, Stats and Tests lines; server: `get_progress`). Text:
+**Progress = position** (from the card's Now, Stats and Tests lines). Text:
 ```
 Learn Italian · Level 1 · Next: Understanding & Help, Lesson 1
 Lessons 5/18 · Topics ✓ Basics · ○ Understanding & Help · ○ Transport · ○ Sightseeing · ○ Restaurant · ○ Shopping
@@ -10,7 +10,7 @@ Rome in 9 days: 13 lessons left (about 1.5 a day)
 ```
 Voice: "You're on Level 1, next is Understanding and Help. Five of eighteen lessons done, Basics passed. Nine days to Rome." If the trip is close, suggest the trip-priority path.
 
-**Stats = performance** (from the card's Stats, Accuracy, Tests and bucket lines; server: `get_stats`). Text:
+**Stats = performance** (from the card's Stats, Accuracy, Tests and bucket lines). Text:
 ```
 Streak 4 days (best 6) · last lesson yesterday
 Accuracy: speak 18/22 · listen 12/15 · read 15/16 · roleplay 9/10

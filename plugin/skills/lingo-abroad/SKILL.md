@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.104**
+**Skill version: 0.1.105**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -67,18 +67,13 @@ Each topic folder holds `lesson-1.md`, `lesson-2.md`, `lesson-3.md` and `test.md
 
 Shared files: `references/core/lesson-rules.md` (every lesson), plus `settings.md`, `practice.md`, `freestyle.md`, `tests.md`, `progress.md`, `debrief.md` (on demand); plus the language files above.
 
-## Progress modes
+## Progress
 
-There are two ways to keep progress. Check which one applies **at the start of every conversation**:
-
-- **Server mode:** if the **Lingo Abroad connector** tools are available (`get_progress`, `save_lesson`, `get_stats`), use them. Call `get_progress` before the first lesson step to learn where the learner is, their Weak/Learning/Solid items, trip and habit. At the end of each lesson or test call `save_lesson` with the results (each item: right or missed). **Don't print the progress card or log row**; just say one short line, e.g. "✓ Saved. Basics, Lesson 2 done. Streak 3 days.", then offer the **What next? menu**. If the learner asks for stats, call `get_stats`.
-- **Card mode (default):** if the connector isn't available, or a call fails, use the **progress card** (see "Progress card" below). If a server call fails mid-lesson, say once "I couldn't save to your Lingo Abroad account, so here's your card instead," then print the card.
-
-Never mix modes in one lesson. Never invent server results.
+Progress lives only on the **progress card** (see "Progress card" below): the learner pastes it into a new chat, or you find the latest one in this or past chats. Never invent progress.
 
 ## Starting
 
-In **server mode**, `get_progress` replaces the card checks below (setup only if the server has no trip yet). In **card mode**, pick one case:
+Pick one case:
 
 - **Progress card pasted:** read it, say in one sentence where the learner is ("You've done Basics, Lesson 1"), then offer the **next lesson** that exists. If the card points to a lesson that isn't written yet, say so and offer a review or the next available lesson.
 - **"Continue" in the same conversation:** use the **latest progress card in this conversation**. If a lesson, test or practice is half done (e.g. after a pause), resume at its **next unfinished step** (don't restart or skip ahead). **One chat = one lesson, test or practice:** if this chat already finished one, don't start another here; say: "That one's done. For the next one, open a new chat and paste your card. A fresh chat is faster and uses far fewer tokens." Quick questions ("stats", "plan", "how do I say…") are fine in the same chat.
@@ -112,7 +107,7 @@ When the learner already has progress and **hasn't said what they want** (e.g. a
 
 ## Commands
 
-Each command also works as **any equivalent phrase, in any language** ("how am I doing?" = Stats, "next class" = Next lesson). In voice, answer in 2–3 short sentences. Never invent numbers: with no card or server, say so and offer "Start" or "paste your card". Details are in the sections named. **To add a command, add a row here first.**
+Each command also works as **any equivalent phrase, in any language** ("how am I doing?" = Stats, "next class" = Next lesson). In voice, answer in 2–3 short sentences. Never invent numbers: with no card, say so and offer "Start" or "paste your card". Details are in the sections named. **To add a command, add a row here first.**
 
 | Say | Do |
 | :-- | :- |
@@ -132,7 +127,7 @@ Each command also works as **any equivalent phrase, in any language** ("how am I
 | **Log row** | Print the log row for the last lesson (`progress.md`) |
 | **Settings** | For each setting, say the **current value first**, then the other options in brackets ("Length: 7 minutes (or 5, 10)"); ask what to change. Confirm each change in one sentence (**Settings**) |
 | **How do I say…?** | **My phrases** |
-| **Change my trip** · **Switch to <language>** | Update destination/date (server: `set_trip`) · switch course (one card per language) |
+| **Change my trip** · **Switch to <language>** | Update destination/date · switch course (one card per language) |
 | **I'm back** | **After the trip** |
 
 **Progress, Stats, Plan, Log row:** read `references/core/progress.md` for the fixed formats.
@@ -225,7 +220,7 @@ The learner's own phrases for their trip ("How do I say I'm allergic to nuts?", 
 
 ## Progress card
 
-**Card mode only** (in server mode, call `save_lesson` instead). End every lesson or test with the card, **always inside a ``` code block** (text and voice; never as plain lines). In voice, say only "Your card is on screen." before it and nothing about its contents: voice mode reads plain text aloud, and the code block is what keeps it short. **Always print the card, even in voice and even if the card's Notes say "card on request"** (drop that note): the card is the only save, and the learner copies it to start the next chat (paste the card → tap voice → "ready"). Learners do lessons hands-free and won't ask for it. Then the **end-of-lesson line** (new chat + paste this card; see **What next? menu**). Never write files on your own. If the learner asks to save the card to a file and you can write files (e.g. Claude Code), save it to `trips/<destination>.md` and say where.
+End every lesson or test with the card, **always inside a ``` code block** (text and voice; never as plain lines). In voice, say only "Your card is on screen." before it and nothing about its contents: voice mode reads plain text aloud, and the code block is what keeps it short. **Always print the card, even in voice and even if the card's Notes say "card on request"** (drop that note): the card is the only save, and the learner copies it to start the next chat (paste the card → tap voice → "ready"). Learners do lessons hands-free and won't ask for it. Then the **end-of-lesson line** (new chat + paste this card; see **What next? menu**). Never write files on your own. If the learner asks to save the card to a file and you can write files (e.g. Claude Code), save it to `trips/<destination>.md` and say where.
 
 ```
 ▶ Use skill: Lingo Abroad. Continue from this card.

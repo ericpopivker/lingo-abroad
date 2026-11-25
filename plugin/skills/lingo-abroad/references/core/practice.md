@@ -39,6 +39,6 @@ Free practice between lessons. **Only items from lessons the learner has done** 
 - **One speed round per session at most**, and **at most one** _Make your own hook_ or _Say it after me_ per session.
 - _Say it after me_ and _Make your own hook_ don't move buckets.
 
-**Ending:** stop when the learner says "stop" or the time/card count is reached. Say one sentence ("8 of 10 right; *binario* moved to Solid"), then update progress: in **card mode**, print the card (practice **counts for the streak**, updates buckets and accuracy, but doesn't complete lessons or tests) (log row Type `practice` if asked); in **server mode**, call `save_lesson` with type `practice`.
+**Ending:** stop when the learner says "stop" or the time/card count is reached. Say one sentence ("8 of 10 right; *binario* moved to Solid"), then update progress: print the card (practice **counts for the streak**, updates buckets and accuracy, but doesn't complete lessons or tests) (log row Type `practice` if asked).
 
 **Places for roleplays:** never the same place twice in a row, and only places from topics the learner has done (after Transport: stations and ticket offices too, not just cafés and bakeries).
