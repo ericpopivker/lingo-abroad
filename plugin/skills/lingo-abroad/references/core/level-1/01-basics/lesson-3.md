@@ -8,7 +8,7 @@ This spec lists **meanings**, not words. Write each item in the target language 
 
 | # | Meaning | When | Target-language note |
 | :- | :------ | :--- | :------------------- |
-| S1 | Yes / No | Answering any question | |
+| S1 | Yes / No | Answering any question | A pair: teach "yes" and "no" as two quick turns, one word each. |
 | S2 | "Excuse me" / "Sorry" (to get attention) | Getting a waiter's or stranger's attention; small apology | The polite form for strangers. |
 | S3 | "Excuse me" (may I pass?) | Squeezing past people on a bus or in a shop aisle | Only if the language uses a different phrase from S2 for this; otherwise teach S2 for this use too and say so in one sentence. |
 | S4 | "OK" / "That's fine" | Agreeing to anything | |
