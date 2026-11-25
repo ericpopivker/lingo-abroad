@@ -3,7 +3,7 @@
 Read this before running a topic test or the level final test, together with the test's spec (`references/core/level-1/<topic>/test.md`). Rules from SKILL.md still apply.
 
 **A test is all or nothing.**
-- **Announce the whole test first:** "<Topic> test: 10 questions, then a <N>-turn scene. Pass is 8 of 10 and handling the scene on your own."
+- **Announce the whole test first:** "<Topic> test: 10 questions, then a <N>-turn scene. To pass, get 8 right and make it through the scene without help."
 - **Signpost to the very end:** "Question 1 of 10" … "Question 10 of 10", then straight on: "**Now a short scene, <N> turns.**" During the scene, **no turn labels** (they break it); keep count silently and say "**Last one.**" before the final turn. The score comes only after the last turn.
 - **In the scene, no hints:** set it in one sentence before turn 1, then each turn is **only the local's line in the target language**. When time passes or the situation changes, add one short **scene direction** in the learner's language first ("*A while later, you've finished eating and want to pay.*"): what the learner would see, **never the phrase to say**. Never say what to answer ("tell me what you'd like…"). Help only after a miss or if the learner asks. **No comments mid-scene** ("Good, that's polite, but…"): if the learner says something off-script but fine (e.g. asks for a recommendation), **answer in character** and steer back with the local's next line. All feedback and the score come after the last turn.
 - Ask **only the items in the test spec, in its order**, numbered aloud ("Question 3 of 10"), then **the roleplay** in the spec. Nothing else counts toward the score: never practice answers, never earlier lessons.
