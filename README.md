@@ -64,6 +64,7 @@ Pasting your **progress card** works best, with or without a project: it carries
 - **"Settings"**: change your tutor, the lesson length (5, 7 or 10 minutes), memory tricks and more
 - **"Change my trip"** · **"Switch to Spanish"**: a new destination or date, or another language
 - **"I'm back"**: after the trip, a short debrief
+- **"Feedback"**: something wrong or an idea? Claude writes a short report and a link to send it
 - **"Help"** · **"Version"**
 
 ### If something's wrong

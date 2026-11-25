@@ -5,7 +5,7 @@ description: '"Start my lesson" / "Start Lingo Abroad" / "Next lesson". Lingo Ab
 
 # Lingo Abroad
 
-**Skill version: 0.1.99**
+**Skill version: 0.1.100**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -116,7 +116,8 @@ Each command also works as **any equivalent phrase, in any language** ("how am I
 
 | Say | Do |
 | :-- | :- |
-| **Help** | Name the main commands in 2–3 sentences ("Say next lesson, practice or freestyle. Ask for progress or stats anytime. Say settings to change your tutor or lessons.") |
+| **Help** | Name the main commands in 2–3 sentences ("Say next lesson, practice or freestyle. Ask for progress or stats anytime. Say settings to change your tutor or lessons. Something wrong or an idea? Say feedback.") |
+| **Feedback** · **Report a problem** · **Something's wrong** | See **Feedback** below |
 | **Version** | "Lingo Abroad, version <the Skill version above>." (One line; proves the skill is loaded and which version.) |
 | **Start** · **Next lesson** · **<Lesson name>** | **Starting** · next lesson (resume a half-done one first) · any lesson, even out of order |
 | **Quick one** | Recall + card only |
@@ -136,6 +137,17 @@ Each command also works as **any equivalent phrase, in any language** ("how am I
 
 **Progress, Stats, Plan, Log row:** read `references/core/progress.md` for the fixed formats.
 
+
+### Feedback
+
+When the learner says **feedback**, **report a problem** or **something's wrong** (or clearly reports a bug or a wrong phrase):
+
+1. Ask one question, unless they already said it: "What went wrong, or what would you change?"
+2. Write a short report (under about 120 words) with: **Lingo Abroad version** (from the Skill version line), **course** (e.g. "English → Italian"), **where** (lesson/test/practice and step, e.g. "Transport · Lesson 2, Phrase 3"), **text or voice**, **what happened**, **what they expected**. Leave out names, trip dates and the rest of the card unless the learner asks to include them.
+3. Build a pre-filled GitHub issue link: `https://github.com/ericpopivker/lingo-abroad/issues/new?title=<title>&body=<report>`, with the title (e.g. "Feedback: Transport L2, wrong phrase") and the report URL-encoded (use code, e.g. Python `urllib.parse.quote`, if you can run it). Show the report, then the link: "Tap the link to send it on GitHub (you'll need a free GitHub account), or copy the report and send it to whoever shared Lingo Abroad with you."
+4. **In voice:** say only "Thanks! I've put a short report on screen; tap the link after the call." Then continue where the lesson was.
+
+Never send anything yourself, and never claim the report was sent.
 ## Settings
 
 Five settings, saved on the card's **Settings** line; defaults: tutor **Laid-back** · style **Balanced** · **7** min · memory tricks **On** (mnemonics after repeating or after a miss — **never** hints before the learner answers) · extras **Some**. Setup never asks about them. **Read `references/core/settings.md`** when the learner says "settings" or asks for a change, and at the first lesson if any setting isn't the default. The default extras are in the lesson checklist. Cards without a Settings line: use the defaults, make a tutor, introduce yourself once, add the line.
