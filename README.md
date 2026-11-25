@@ -111,7 +111,7 @@ The lesson options mean: **Practice** = review your shaky phrases · **Quick one
 - **Opus works best.** Sonnet usually works too (handy on a free account), but it sometimes doesn't load the skill or drifts from the lesson; if that happens, start a new chat and try again. Haiku isn't supported.
 - **Usage:** one new chat per lesson keeps usage down. (On Claude Free with Sonnet we measured roughly 1 lesson + 1 practice per 5-hour window.)
 - **Quick questions** ("plan", "stats", "how do I say…") are fine in the same chat; every new lesson, practice or test gets a new chat.
-- **Tests:** pass = 8/10 and polite answers in the roleplay.
+- **Tests:** pass = 8/10 and handling the closing scene on your own (the right replies, in polite form).
 - **Optional progress sheet:** say **"log row"** after a lesson and paste the row into your own Google Sheet/Excel built from [templates/](templates/) (`progress-log.csv`, setup and formulas in `progress-sheet.md`).
 
 ## How it works

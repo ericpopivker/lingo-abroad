@@ -2,7 +2,7 @@
 
 About 12 minutes, or two halves of about 6. **Available once all six topic tests are passed** (if one isn't, say which and offer it instead). Follow `references/core/tests.md`: announce the whole test first, signpost every question ("Question 3 of 15"), **no feedback during the test** (after each answer only "Okay." or "Got it."), then the roleplay, then one review at the end.
 
-**Announce:** "Level 1 final test: 15 questions from all six topics, then one longer scene, a day in <city>. Pass is 12 of 15 and polite answers in the scene. We can do it in two halves if you like."
+**Announce:** "Level 1 final test: 15 questions from all six topics, then one longer scene, a day in <city>. Pass is 12 of 15 and handling the scene on your own. We can do it in two halves if you like."
 
 **Two halves (optional):** Half 1 = questions 1–8. Half 2 = questions 9–15 + the roleplay. Between halves, put `Final test: half 1 done (<right>/8)` on the card's Tests line; Half 2 picks up from there in a new chat. Switching to anything else mid-half cancels only that half.
 
