@@ -155,7 +155,7 @@ Every lesson has three parts: **Speak** (what you say, always polite), **Listen*
 Lingo Abroad borrows proven pieces from six methods—trimmed down to fit a 7-minute voice lesson:
 
 - **Pimsleur (Graduated-Interval Recall & Anticipation):** Model a new phrase slowly first, repeat it, then recall it soon after and again a little later (growing gaps, as in Pimsleur), and once more in the roleplay—zero grammar lectures, polite register by default.
-- **Atomic Habits (James Clear):** Habit-stacking cue (*"after morning coffee"*), visible trip countdown, a 2-minute **"quick one"** recall session for busy days, and **never miss twice** (easy win after a skipped day, zero guilt).
+- **Atomic Habits (James Clear):** Visible trip countdown, a 2-minute **"quick one"** recall session for busy days, and **never miss twice** (easy win after a skipped day, zero guilt).
 - **Anki / Leitner Spaced Repetition:** Retrieval-first prompts (answer before seeing/hearing the phrase), interleaving across topics, and an LLM-safe **3-bucket** queue (`Weak` → `Learning` → `Solid`)—plus Anki-style **again / easy** overrides in Practice mode.
 - **Comprehensible Input (Krashen, *i+1*):** Every lesson trains **Listen** separately with realistic local replies slightly above what you produce, paired with a low-anxiety English safety net mid-roleplay.
 - **Keyword Mnemonics:** Short, accurate memory tricks (word parts, cognates, or sound-alike pictures) tailored to the learner's own native language—or saved when the learner invents their own.

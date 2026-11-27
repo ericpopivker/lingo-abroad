@@ -1,6 +1,6 @@
 # Level 1 · Understanding & Getting Help · Lesson 2: Working It Out (shared spec)
 
-**Goal:** get unstuck on your own: tell people you speak only a little of the language, ask how to say something, and ask what a word means. About 7 minutes.
+**Goal:** get unstuck on your own: tell people you speak only a little of the language, buy a second to think, ask how to say something, and ask what a word means. About 7 minutes.
 
 This spec lists **meanings**, not words. Write each item in the target language as a polite local would say it in the destination country (see SKILL.md, Writing the items).
 
@@ -11,6 +11,7 @@ This spec lists **meanings**, not words. Write each item in the target language 
 | S1 | "I speak only a little <language>." | When a local starts talking fast or at length; it makes them slow down and keep it simple | The most natural everyday form (e.g. Italian _Parlo solo un po' d'italiano_). Better than "I don't speak <language>", which ends the conversation. |
 | S2 | "How do you say … in <language>?" | You know the word in your language but not in theirs | Practice with "water" first; the learner fills the gap with any word. |
 | S3 | "What does it mean?" | You see or hear a word you don't know | |
+| S4 | "Well… / Let me see…" (a one-word thinking filler) _(added in 0.1.124)_ | You need a second to find the words; say it instead of going silent | One short, natural filler locals really use, polite anywhere (e.g. Italian _Allora…_ or _Vediamo…_). Mention once that it also keeps the conversation (and voice mode) from moving on while you think. |
 
 ## Listen — what locals say back
 
@@ -31,7 +32,7 @@ This spec lists **meanings**, not words. Write each item in the target language 
 
 ## Roleplay — 3 short scenes
 
-1. **At a kiosk:** "You want water but don't know the word. Vendor: greeting + 'What would you like?'" → learner: S2 (water). Vendor: L1 → learner: "This one, please" (Basics) or the new word + please.
+1. **At a kiosk:** "You want water but don't know the word. Vendor: greeting + 'What would you like?'" → learner: S4, then S2 (water). Vendor: L1 → learner: "This one, please" (Basics) or the new word + please.
 2. **Too fast:** the vendor starts chatting quickly about the weather → learner: S1. Vendor: L3, then says the price slowly → learner: thank you.
 3. **A sign:** "Next door, a shop sign says <R2>." → learner asks the vendor: S3 about the word for "holidays". Vendor: L2.
 

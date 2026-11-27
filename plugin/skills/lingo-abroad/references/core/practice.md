@@ -2,7 +2,7 @@
 
 Read this when the learner asks to practice, review, or "quiz me". Rules from SKILL.md (polite register, voice, memory tricks, progress card) still apply.
 
-Free practice between lessons. **Only items from lessons the learner has done** (plus the current lesson); never new material, and **never your own new phrases or questions**.
+Free practice between lessons. **Only items from lessons the learner has done** (plus the current lesson); never new material, and **never your own new phrases or questions**. **Items marked _(added in <version>)_ in a spec** were added after some learners finished that lesson: use them only if they're on the card or were taught in this chat; otherwise skip them.
 
 **Direction follows the item's tag on the card:** **(S)** speak items → the learner **produces** them ("How do you say…?", situations, roleplay lines). **(L)** listen and **(R)** read items → **recognition only**: say or show the target-language line and ask "What does it mean?". Never ask the learner to say an (L) or (R) item, or to build a question from one. Untagged item: check the lesson spec it came from. Polite register, memory hooks, the English safety net and "slower" work as in lessons.
 

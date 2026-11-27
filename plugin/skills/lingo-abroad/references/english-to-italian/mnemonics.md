@@ -9,6 +9,7 @@ Add new phrases in alphabetical order. Write look-alikes and word parts as plain
 | Acqua naturale, per favore. | Still water, please. | _Acqua_ like aquarium; _naturale_ = natural, nothing added. |
 | Alla prossima fermata. | At the next stop. | _Prossima_ = proximity, the next one; _fermata_ = where it stops ("stand firm"). |
 | Allergeni / Contiene… | Allergens / Contains… | Look like allergens and contains. |
+| Allora… | Well… / So… | Sounds like "all right…": what you say while you think. |
 | Antipasti | Starters | _Anti_ = before (like ante-room), _pasto_ = meal: before the meal. |
 | Aperto | Open | A camera's aperture is its opening. |
 | Arrivederci | Goodbye | _Ri-vedere_ = to re-view, see again: "until we see each other again." |
@@ -96,6 +97,7 @@ Add new phrases in alphabetical order. Write look-alikes and word parts as plain
 | Un tavolo per due, per favore. | A table for two, please. | _Tavolo_ = table (both from Latin _tabula_); _due_ like a duet: two. |
 | Uscita | Exit | oo-SHEE-tah: picture staff saying "shoo!" toward the exit. |
 | Va bene | OK / That's fine | _Bene_ like benefit: "it goes well." |
+| Vediamo… | Let's see… | From _vedere_, to see (like video): "let's see…" |
 | Vegetariano | Vegetarian | Looks like vegetarian. |
 | Vietato fumare | No smoking | _Vietato_ like vetoed = forbidden; _fumare_ like fumes = smoke. |
 | Vorrei… | I'd like… | _Vorrei_ comes from _volere_, to want, like volition: "my volition would be…", the polite "I would like". |
