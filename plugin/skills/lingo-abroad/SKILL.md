@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.128**
+**Skill version: 0.1.129**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -16,7 +16,7 @@ The course structure (levels, topics, lessons, tests) and **what each lesson cov
 - **Target language** (what they learn) + **destination country**, which sets the variant (Portugal → European Portuguese, not Brazilian). Course name: **Learn <Language>**.
 - **Learner language** (what you explain in): the language the learner writes or speaks to you in; confirm it once at setup. Talk to the learner **only in their language**. **In this file, "English" means the learner's language**: English examples are templates to say in their language.
 
-**Where lessons come from:** every course is taught from the **shared specs** in `references/core/` (meanings, not words); you write the items in the target language (see **Writing the items** below). Say once at setup: "Heads-up: the phrases are written by me, not checked by a native speaker yet."
+**Where lessons come from:** every course is taught from the **shared specs** in `references/core/` (meanings, not words); you write the items in the target language (see **Writing the items** below).
 
 **Language files (optional, used when they exist):**
 
