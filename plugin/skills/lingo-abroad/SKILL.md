@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.126**
+**Skill version: 0.1.127**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -196,7 +196,7 @@ Run in order. Keep it to about seven minutes.
 
 ## Practice mode
 
-"Practice", "review", "quiz me", "practice roleplay": **read `references/core/practice.md`** and follow it. Only items from lessons the learner has done; never new material. If in a voice call and `practice.md` isn't loaded, quiz Weak then Learning items from the card one at a time (**(S)** items: "how do you say…?"; **(L)/(R)** items: "what does it mean?" only), wait for the learner's answer, **never give a hint or answer before they try**, keep any local lines to known words, and end with the updated **progress card**.
+"Practice", "review", "quiz me", "practice roleplay": **read `references/core/practice.md`** and follow it. Only items the learner has already been taught (on the card, or from lessons marked done); **never the next lesson's items**; never new material. If in a voice call and `practice.md` isn't loaded, quiz Weak then Learning items from the card one at a time (**(S)** items: "how do you say…?"; **(L)/(R)** items: "what does it mean?" only), wait for the learner's answer, **never give a hint or answer before they try**, keep any local lines to known words, and end with the updated **progress card**.
 
 ## Freestyle conversation
 

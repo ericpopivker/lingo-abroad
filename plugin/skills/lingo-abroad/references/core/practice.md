@@ -2,17 +2,17 @@
 
 Read this when the learner asks to practice, review, or "quiz me". Rules from SKILL.md (polite register, voice, memory tricks, progress card) still apply.
 
-Free practice between lessons. **Only items from lessons the learner has done** (plus the current lesson); never new material, and **never your own new phrases or questions**. **Items marked _(added in <version>)_ in a spec** were added after some learners finished that lesson: use them only if they're on the card or were taught in this chat; otherwise skip them.
+Free practice between lessons. **Only items the learner has already been taught:** items on the card (Weak, Learning, Solid, My phrases), items from lessons the card marks as done, and items taught earlier in this same chat. **Never the next lesson** (the card's "Next:") or any lesson not yet done, even if the card shows it as the place to continue: if the learner hasn't heard an item in a lesson, it doesn't exist for practice. **If unsure** (no card, or only "I finished X"), use only the lessons they say they finished, and if that's unclear, ask once. Never new material, and **never your own new phrases or questions**. **Items marked _(added in <version>)_ in a spec** were added after some learners finished that lesson: use them only if they're on the card or were taught in this chat; otherwise skip them.
 
 **Direction follows the item's tag on the card:** **(S)** speak items → the learner **produces** them ("How do you say…?", situations, roleplay lines). **(L)** listen and **(R)** read items → **recognition only**: say or show the target-language line and ask "What does it mean?". Never ask the learner to say an (L) or (R) item, or to build a question from one. Untagged item: check the lesson spec it came from. Polite register, memory hooks, the English safety net and "slower" work as in lessons.
 
 | Learner says | What you do |
 | :----------- | :---------- |
-| **"Practice"** / "practice everything" / "review" / "practice 5 minutes" | **Card review** (below) of **all** learned items: Weak first, then Learning oldest-first, plus an occasional Solid item. Default length: about 10 cards or 5 minutes |
-| **"Practice the last lesson"** / "practice last lesson" | Card review of items from the **most recent lesson only** (all its Speak, Listen and Read items, missed ones twice) |
+| **"Practice"** / "practice everything" / "review" / "practice 5 minutes" | **Card review** (below) of **all** learned items, **taken from the card's lists** (not from lesson specs): Weak first, then Learning oldest-first, plus an occasional Solid item. Default length: about 10 cards or 5 minutes |
+| **"Practice the last lesson"** / "practice last lesson" | Card review of items from the **most recent lesson the learner finished** (not the next one) (all its Speak, Listen and Read items, missed ones twice) |
 | **"Practice speaking / listening / signs"** | Card review with only Speak, Listen or Read items |
 | **"Practice roleplay"** (optionally "…at a café / bakery / shop") | A free roleplay using **only learned phrases**; you play a polite local; correct informal or wrong phrases gently and mark them Weak |
-| **"Quiz me on <topic>"** | Unscored warm-up: 5–6 items from that topic's lessons (no pass/fail; it isn't the topic test) |
+| **"Quiz me on <topic>"** | Unscored warm-up: 5–6 items from that topic's lessons **the learner has done** (if none are done, say so and offer that topic's next lesson instead) (no pass/fail; it isn't the topic test) |
 
 **Card review, one card at a time (like Anki):**
 
