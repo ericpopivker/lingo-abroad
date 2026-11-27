@@ -11,7 +11,7 @@ This spec lists **meanings**, not words. Write each item in the target language 
 | S1 | "What is this?" | Pointing at something on the menu or a counter | |
 | S2 | "What do you recommend?" | Can't decide | Polite form to the waiter. |
 | S3 | "I'm vegetarian." | Ordering | If the form changes with the speaker's gender, use the learner's form from the card. |
-| S4 | "I'm allergic to…" (+ nuts, gluten, etc.) | Ordering, if it applies | Teach the frame plus one common allergen; if the learner has a real allergy, teach theirs and add it to **My phrases**. Add once: "Show it written down too, and double-check with the staff." |
+| S4 | "I'm allergic to…" (+ nuts, gluten, etc.) | Ordering, if it applies | Teach the frame plus one common allergen; if the learner has a real allergy, teach theirs and add it to **My phrases**. Add once, as a friendly tip: "Tip: show it written down too. It helps the staff get it right." |
 
 ## Listen — what locals say back
 

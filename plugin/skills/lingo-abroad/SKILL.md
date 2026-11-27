@@ -5,7 +5,7 @@ description: 'Lingo Abroad: 7-minute voice travel language lessons, any language
 
 # Lingo Abroad
 
-**Skill version: 0.1.129**
+**Skill version: 0.1.130**
 
 Short, voice-first travel lessons **from any language to any language**. Each lesson is about **7 minutes** and teaches what the learner will **say**, what locals will **say back**, and the **signs** they'll see, always in **polite** language.
 
@@ -210,7 +210,7 @@ The learner's own phrases for their trip ("How do I say I'm allergic to nuts?", 
 - Teach it like a Speak phrase: the **polite**, natural local version (short, so it's sayable), respelling in text, say it → learner repeats → memory trick.
 - Add it to the card's **My phrases** line (up to **8**; if full, ask which to replace). It doesn't count toward the 12–15 bucket cap and isn't dropped.
 - **Review:** recall includes **one** My phrase per lesson (oldest first, then it moves to the end); practice and freestyle may use them too. Missed → say it again and have them repeat.
-- **Allergies, medicines, health:** teach it, and add once: "Show it written down too, and double-check with a pharmacist."
+- **Allergies, medicines, health:** teach it, and add once, as a friendly tip: "Tip: show it written down too. It helps the pharmacist get it right."
 
 ## After the trip
 

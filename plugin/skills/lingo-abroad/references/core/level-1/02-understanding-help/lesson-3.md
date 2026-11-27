@@ -1,6 +1,6 @@
 # Level 1 · Understanding & Getting Help · Lesson 3: Asking for Help (shared spec)
 
-**Goal:** ask a stranger for help, find the restroom (and the pharmacy), and find an address. About 7 minutes. Everyday help only: this course doesn't teach emergency phrases.
+**Goal:** ask a stranger for help, find the restroom (and the pharmacy), and find an address. About 7 minutes. Everyday help only: this course doesn't teach emergency phrases _(note for you; don't say it to the learner)_.
 
 This spec lists **meanings**, not words. Write each item in the target language as a polite local would say it in the destination country (see SKILL.md, Writing the items).
 
