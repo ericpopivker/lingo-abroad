@@ -133,7 +133,7 @@ Lingo Abroad runs on Claude's own voice, so it has Claude's limits. What helps:
 
 Claude's voice is good for practice, but it isn't a native speaker. For the phrases that matter most, listen to real people as well:
 
-- **A word or short phrase:** **Google Translate** (tap the speaker icon) or **[Forvo](https://forvo.com)**, where native speakers record words. Pick the right country (e.g. European vs. Brazilian Portuguese).
+- **A word or short phrase:** **[Forvo](https://forvo.com)**, where native speakers record words (pick the right country, e.g. European vs. Brazilian Portuguese). For a quick check, **Google Translate**'s speaker icon is a computer voice too, but one made for each language, so it's usually accurate for short phrases.
 - **The same word in real speech:** **[YouGlish](https://youglish.com)** finds YouTube clips where people say a word or phrase; choose the language first.
 - **A whole situation:** search YouTube for the scene in plain words, e.g. *"ordering coffee in Italian"*, *"buying a train ticket in Italy"*, *"European Portuguese restaurant phrases"*. Street-interview channels such as **Easy Italian** or **Easy Portuguese** let you hear how people really talk.
 - **Tip:** play a phrase a few times, then say it along with the speaker (shadowing). It's the quickest way to fix stress and melody.
