@@ -129,6 +129,15 @@ Lingo Abroad runs on Claude's own voice, so it has Claude's limits. What helps:
 | **Not for emergencies or medical needs.** Lessons cover everyday trip situations only. | For allergies or health, show the phrase written down and check it with a pharmacist or local. In an emergency, use the local emergency number. |
 | **Not a native speaker or a full course.** It teaches only what you need for the trip, in the polite form, not fluency. | Use it to get ready and confident; let the locals do the rest. |
 
+### Hear native speakers too
+
+Claude's voice is good for practice, but it isn't a native speaker. For the phrases that matter most, listen to real people as well:
+
+- **A word or short phrase:** **Google Translate** (tap the speaker icon) or **[Forvo](https://forvo.com)**, where native speakers record words. Pick the right country (e.g. European vs. Brazilian Portuguese).
+- **The same word in real speech:** **[YouGlish](https://youglish.com)** finds YouTube clips where people say a word or phrase; choose the language first.
+- **A whole situation:** search YouTube for the scene in plain words, e.g. *"ordering coffee in Italian"*, *"buying a train ticket in Italy"*, *"European Portuguese restaurant phrases"*. Street-interview channels such as **Easy Italian** or **Easy Portuguese** let you hear how people really talk.
+- **Tip:** play a phrase a few times, then say it along with the speaker (shadowing). It's the quickest way to fix stress and melody.
+
 ## How it works
 
 | Term | Meaning |
