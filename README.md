@@ -37,14 +37,7 @@ Watch the whole setup (1:20):
 
 https://github.com/user-attachments/assets/7e1054a1-660b-44fc-9a3f-56dcb9430a92
 
-> [!IMPORTANT]
-> **Make sure it's really Lingo Abroad, not plain Claude.** They look alike: plain Claude will happily improvise a language lesson, but without the course, the polite-only rules, the review or your progress. You're in Lingo Abroad when:
-> - the first reply is **"Lingo Abroad is loaded…"** (and the app shows a **"Loaded skill lingo-abroad"** step above it),
-> - lessons open with a header like **"Lingo Abroad · Restaurant, Lesson 2"**,
-> - every lesson ends with a **progress card**,
-> - **"Lingo, version"** answers **"Lingo Abroad, version x.y.z"**.
->
-> If not, or if Claude says the skill isn't available, stop and start a new chat (see **If something's wrong** below).
+You'll know it's running when the first reply is **"Lingo Abroad is loaded…"** and lessons open with a header like **"Lingo Abroad · Restaurant, Lesson 2"**. If not, see **If something's wrong** below.
 
 ### Every lesson, practice or test: a new chat in your project
 
@@ -100,9 +93,9 @@ The lesson options mean: **Practice** = review your shaky phrases · **Quick one
 
 | What you see | What to do |
 | :--- | :--- |
-| No **"Lingo Abroad is loaded"**, or a general answer about the language | The skill didn't load. Start a new chat and paste the card again (switching to **Opus** often helps) (its first line, "▶ Use skill: Lingo Abroad…", starts the skill). |
+| No **"Lingo Abroad is loaded"**, no lesson header, or a general answer about the language | That's plain Claude, not Lingo Abroad: the skill didn't load. Start a new chat and paste the card again (its first line, "▶ Use skill: Lingo Abroad…", starts the skill); switching to **Opus** often helps. |
 | "Let me check…" / "I'm working on it" before every answer | Usual on the web. Use the Claude phone or desktop app for quick back-and-forth. |
-| It misheard you, or answers something else | Say it again, slowly. |
+| It misheard you, or answers something else | Say it again, slowly. If it marks a correct answer wrong, say "I said *vorrei*" and carry on. |
 | In voice: "I need to load that first" | End the call and start again from step 1. |
 | Lost your latest card | Start a new chat, type **"Lingo Abroad"** and say where you are: **"I finished Transport lesson 1, 7 of 18 lessons."** |
 | Not sure you have the latest version | Say **"Lingo, version"**: it answers "Lingo Abroad, version x.y.z". |
@@ -115,23 +108,16 @@ The lesson options mean: **Practice** = review your shaky phrases · **Quick one
 - **Tests:** pass = 8/10 and handling the closing scene on your own (the right replies, in polite form).
 - **Optional progress sheet:** say **"log row"** after a lesson and paste the row into your own Google Sheet/Excel built from [templates/](templates/) (`progress-log.csv`, setup and formulas in `progress-sheet.md`).
 
-## Known limitations
+### Tips for your trip
 
-Lingo Abroad runs on Claude's own voice, so it has Claude's limits. What helps:
-
-| Limitation | What helps |
-| :--- | :--- |
-| **Pronunciation and intonation aren't always native.** Claude's voice can stress a syllable wrongly or sound flat, especially in less common languages. | Say **"slower"** or **"again"** for any phrase. For the phrases that matter most, check a native recording (Google Translate's speaker button, or Forvo). Then listen to how locals say it on the trip. |
-| **It can mishear you.** Speech recognition sometimes writes down a different word, even when you said it right, especially with accents in the new language. | Say it again, slowly. If it keeps marking a correct answer wrong, say "I said *vorrei*" and carry on. |
-| **It can't always find your card.** Past-chat search sometimes misses your latest progress card. | Paste the card at the start of the new chat. If it's lost, say where you are: "I finished Transport lesson 1." |
-| **The skill sometimes doesn't load,** or a lesson drifts from the plan (more often on Sonnet). | Start a new chat; switching to **Opus** often helps. Look for "Lingo Abroad is loaded" and the lesson header. |
-| **Online only.** It runs inside Claude, so there's no offline mode on the plane or abroad without data. | Do your lessons before you leave; on the trip, keep your key phrases in a note on your phone. |
-| **Not for emergencies or medical needs.** Lessons cover everyday trip situations only. | For allergies or health, show the phrase written down and check it with a pharmacist or local. In an emergency, use the local emergency number. |
-| **Not a native speaker or a full course.** It teaches only what you need for the trip, in the polite form, not fluency. | Use it to get ready and confident; let the locals do the rest. |
+- **Do your lessons before you leave.** Lessons run inside Claude, so they need a connection; on the trip, keep your key phrases in a note on your phone.
+- **Everyday trip situations.** The course covers cafés, restaurants, transport, sightseeing, shopping and asking for help. For allergies or medicines, show the phrase written down too; in an emergency, call the local emergency number.
+- **Made for trips, not fluency.** Just what you'll need there, in the polite form, so you arrive ready and confident.
+- **Say "slower" or "again"** for any phrase, and hear native speakers for the ones that matter most (below).
 
 ### Hear native speakers too
 
-Claude's voice is good for practice, but it isn't a native speaker. For the phrases that matter most, listen to real people as well:
+Claude's voice is great for practice. For the phrases that matter most, it also helps to hear real people:
 
 - **A word or short phrase:** **[Forvo](https://forvo.com)**, where native speakers record words (pick the right country, e.g. European vs. Brazilian Portuguese). For a quick check, **Google Translate**'s speaker icon is a computer voice too, but one made for each language, so it's usually accurate for short phrases.
 - **The same word in real speech:** **[YouGlish](https://youglish.com)** finds YouTube clips where people say a word or phrase; choose the language first.
