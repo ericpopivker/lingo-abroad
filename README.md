@@ -109,7 +109,7 @@ The lesson options mean: **Practice** = review your shaky phrases · **Quick one
 
 ### Good to know
 
-- **Sonnet or Opus.** Both work, including **Sonnet on the free plan**. Opus usually gives a smoother experience; Sonnet sometimes doesn't load the skill or drifts from the lesson: if that happens, start a new chat and try again. Haiku isn't supported. On the free plan you may need to paste your progress card at the start of each lesson.
+- **Sonnet or Opus.** Both work, including **Sonnet on the free plan**. Opus usually gives a smoother experience; Sonnet sometimes doesn't load the skill or drifts from the lesson: if that happens, start a new chat and try again. Haiku isn't supported. **On the free plan, Claude can't search past chats,** so start each lesson by pasting your progress card, or by saying where you are ("I finished Restaurant lesson 1").
 - **Usage:** one new chat per lesson keeps usage down. (On Claude Free with Sonnet we measured roughly 1 lesson + 1 practice per 5-hour window.)
 - **Quick questions** ("plan", "stats", "how do I say…") are fine in the same chat; every new lesson, practice or test gets a new chat.
 - **Tests:** pass = 8/10 and handling the closing scene on your own (the right replies, in polite form).
