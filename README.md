@@ -115,6 +115,20 @@ The lesson options mean: **Practice** = review your shaky phrases · **Quick one
 - **Tests:** pass = 8/10 and handling the closing scene on your own (the right replies, in polite form).
 - **Optional progress sheet:** say **"log row"** after a lesson and paste the row into your own Google Sheet/Excel built from [templates/](templates/) (`progress-log.csv`, setup and formulas in `progress-sheet.md`).
 
+## Known limitations
+
+Lingo Abroad runs on Claude's own voice, so it has Claude's limits. What helps:
+
+| Limitation | What helps |
+| :--- | :--- |
+| **Pronunciation and intonation aren't always native.** Claude's voice can stress a syllable wrongly or sound flat, especially in less common languages. | Say **"slower"** or **"again"** for any phrase. For the phrases that matter most, check a native recording (Google Translate's speaker button, or Forvo). Then listen to how locals say it on the trip. |
+| **It can mishear you.** Speech recognition sometimes writes down a different word, even when you said it right, especially with accents in the new language. | Say it again, slowly. If it keeps marking a correct answer wrong, say "I said *vorrei*" and carry on. |
+| **It can't always find your card.** Past-chat search sometimes misses your latest progress card. | Paste the card at the start of the new chat. If it's lost, say where you are: "I finished Transport lesson 1." |
+| **The skill sometimes doesn't load,** or a lesson drifts from the plan (more often on Sonnet). | Check you're on **Opus** and start a new chat. Look for "Lingo Abroad is loaded" and the lesson header. |
+| **Online only.** It runs inside Claude, so there's no offline mode on the plane or abroad without data. | Do your lessons before you leave; on the trip, keep your key phrases in a note on your phone. |
+| **Not for emergencies or medical needs.** Lessons cover everyday trip situations only. | For allergies or health, show the phrase written down and check it with a pharmacist or local. In an emergency, use the local emergency number. |
+| **Not a native speaker or a full course.** It teaches only what you need for the trip, in the polite form, not fluency. | Use it to get ready and confident; let the locals do the rest. |
+
 ## How it works
 
 | Term | Meaning |
