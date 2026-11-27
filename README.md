@@ -31,7 +31,7 @@ Feedback and bugs: [Issues](https://github.com/ericpopivker/lingo-abroad/issues)
    > Every chat in this project is a Lingo Abroad lesson. You MUST load the Lingo Abroad skill before your first reply, whatever the message ("next lesson", "hi", "practice" or a pasted card). Never reply without it. Load it once per chat; don't reload it on later turns.
 
    On your phone, add the project to your home screen for one-tap lessons.
-4. **First lesson:** in the project, **new chat** → pick **Opus** → type **"Start Lingo Abroad"** → when it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"** → answer the setup questions by voice.
+4. **First lesson:** in the project, **new chat** → pick **Sonnet** or **Opus** (Opus usually runs the smoothest lessons) → type **"Start Lingo Abroad"** → when it says **"Lingo Abroad is loaded…"**, tap **Use voice mode** and say **"ready"** → answer the setup questions by voice.
 
 Watch the whole setup (1:20):
 
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/7e1054a1-660b-44fc-9a3f-56dcb9430a92
 ### Every lesson, practice or test: a new chat in your project
 
 1. Open the **Lingo Abroad project** → **New chat**. Always a new one: faster and far fewer tokens than a long chat.
-2. Pick **Opus**.
+2. Pick **Sonnet** or **Opus** (Opus is usually smoother).
 3. Tap **Use voice mode** and say **"Next lesson"** (or **"Practice"**, **"Basics test"**, **"Final test"**). No typing needed: the project starts Lingo Abroad on its own.
 4. When it says **"Lingo Abroad is loaded…"**, say **"ready"**.
 
@@ -100,7 +100,7 @@ The lesson options mean: **Practice** = review your shaky phrases · **Quick one
 
 | What you see | What to do |
 | :--- | :--- |
-| No **"Lingo Abroad is loaded"**, or a general answer about the language | The skill didn't load. Check you're on **Opus**, start a new chat and paste the card again (its first line, "▶ Use skill: Lingo Abroad…", starts the skill). |
+| No **"Lingo Abroad is loaded"**, or a general answer about the language | The skill didn't load. Start a new chat and paste the card again (switching to **Opus** often helps) (its first line, "▶ Use skill: Lingo Abroad…", starts the skill). |
 | "Let me check…" / "I'm working on it" before every answer | Usual on the web. Use the Claude phone or desktop app for quick back-and-forth. |
 | It misheard you, or answers something else | Say it again, slowly. |
 | In voice: "I need to load that first" | End the call and start again from step 1. |
@@ -109,7 +109,7 @@ The lesson options mean: **Practice** = review your shaky phrases · **Quick one
 
 ### Good to know
 
-- **Opus works best.** Sonnet usually works too (handy on a free account), but it sometimes doesn't load the skill or drifts from the lesson; if that happens, start a new chat and try again. Haiku isn't supported.
+- **Sonnet or Opus.** Both work, including **Sonnet on the free plan**. Opus usually gives a smoother experience; Sonnet sometimes doesn't load the skill or drifts from the lesson: if that happens, start a new chat and try again. Haiku isn't supported. On the free plan you may need to paste your progress card at the start of each lesson.
 - **Usage:** one new chat per lesson keeps usage down. (On Claude Free with Sonnet we measured roughly 1 lesson + 1 practice per 5-hour window.)
 - **Quick questions** ("plan", "stats", "how do I say…") are fine in the same chat; every new lesson, practice or test gets a new chat.
 - **Tests:** pass = 8/10 and handling the closing scene on your own (the right replies, in polite form).
@@ -124,7 +124,7 @@ Lingo Abroad runs on Claude's own voice, so it has Claude's limits. What helps:
 | **Pronunciation and intonation aren't always native.** Claude's voice can stress a syllable wrongly or sound flat, especially in less common languages. | Say **"slower"** or **"again"** for any phrase. For the phrases that matter most, check a native recording (Google Translate's speaker button, or Forvo). Then listen to how locals say it on the trip. |
 | **It can mishear you.** Speech recognition sometimes writes down a different word, even when you said it right, especially with accents in the new language. | Say it again, slowly. If it keeps marking a correct answer wrong, say "I said *vorrei*" and carry on. |
 | **It can't always find your card.** Past-chat search sometimes misses your latest progress card. | Paste the card at the start of the new chat. If it's lost, say where you are: "I finished Transport lesson 1." |
-| **The skill sometimes doesn't load,** or a lesson drifts from the plan (more often on Sonnet). | Check you're on **Opus** and start a new chat. Look for "Lingo Abroad is loaded" and the lesson header. |
+| **The skill sometimes doesn't load,** or a lesson drifts from the plan (more often on Sonnet). | Start a new chat; switching to **Opus** often helps. Look for "Lingo Abroad is loaded" and the lesson header. |
 | **Online only.** It runs inside Claude, so there's no offline mode on the plane or abroad without data. | Do your lessons before you leave; on the trip, keep your key phrases in a note on your phone. |
 | **Not for emergencies or medical needs.** Lessons cover everyday trip situations only. | For allergies or health, show the phrase written down and check it with a pharmacist or local. In an emergency, use the local emergency number. |
 | **Not a native speaker or a full course.** It teaches only what you need for the trip, in the polite form, not fluency. | Use it to get ready and confident; let the locals do the rest. |
